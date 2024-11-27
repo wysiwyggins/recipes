@@ -149,9 +149,9 @@ with open('ingredients/color_potion_origins.txt', 'r') as f:
 with open('ingredients/skill_potion_origins.txt', 'r') as f:
     skill_potion_origins = [line.strip() for line in f if line.strip()]
 
-text_model = POSifiedText(effects_text, state_size=3)
+text_model = POSifiedText(effects_text, state_size=2)
 
-num_pages = 550
+num_pages = 580
 
 base_grammar_rules = {
     'adjective': adjectives,
