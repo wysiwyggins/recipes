@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.4.16)  27 NOV 2024 13:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.4.16)  27 NOV 2024 15:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -117,97 +117,376 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 {/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 [2{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
-}] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18]
-[19] [20] [21] [22] [23] [24] [25] [26] [27] [28] [29] [30] [31] [32] [33]
-[34] [35] [36] [37] [38] [39] [40] [41] [42] [43] [44] [45] [46] [47] [48]
-[49] [50] [51] [52] [53] [54] [55] [56] [57] [58] [59] [60] [61] [62] [63]
-[64] [65] [66] [67] [68] [69] [70] [71]
-LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 2
-050.
+}] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13]
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 3
+49.
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 2050.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 349.
 
- [72] [73]
-[74]
+./recipe_book.tex:349: You can't use `macro parameter character #' in horizonta
+l mode.
+l.349   \item 310 ml \textbackslash{}#
+                                       https://comptox.epa.gov/dashboard/che...
 
-./recipe_book.tex:2141: LaTeX Error: Unicode character 蔊 (U+850A)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2141   \item 7 portions 蔊
-                             菜
 ? s
 OK, entering \scrollmode...
+./recipe_book.tex:349: Missing $ inserted.
+<inserted text> 
+                $
+l.349 ...a.gov/dashboard/chemical\textbackslash{}_
+                                                  lists/ACSREAG
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
 
-./recipe_book.tex:2141: LaTeX Error: Unicode character 菜 (U+83DC)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 349.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 349.
+
+./recipe_book.tex:350: LaTeX Error: Command \item invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.350   \item
+              Half a tablespoon Rose-apple
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./recipe_book.tex:350: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.350   \item H
+               alf a tablespoon Rose-apple
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./recipe_book.tex:350: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.350   \item H
+               alf a tablespoon Rose-apple
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./recipe_book.tex:351: LaTeX Error: Command \end{itemize} invalid in math mode.
+
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.351 \end{itemize}
+                   
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./recipe_book.tex:351: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.351 \end{itemize}
+                   
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./recipe_book.tex:351: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.351 \end{itemize}
+                   
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+./recipe_book.tex:351: Missing $ inserted.
+<inserted text> 
+                $
+l.351 \end{itemize}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./recipe_book.tex:358: Missing $ inserted.
+<inserted text> 
+                $
+l.358 ...a.gov/dashboard/chemical\textbackslash{}_
+                                                  lists/ACSREAG and scatter ...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+./recipe_book.tex:359: LaTeX Error: Command \item invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.359   \item
+              Grind the Rose-apple and scatter it within a stone circle, the...
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./recipe_book.tex:359: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.359   \item G
+               rind the Rose-apple and scatter it within a stone circle, the...
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./recipe_book.tex:359: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.359   \item G
+               rind the Rose-apple and scatter it within a stone circle, the...
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./recipe_book.tex:360: LaTeX Error: Command \end{enumerate} invalid in math mod
+e.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.360 \end{enumerate}
+                     
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./recipe_book.tex:360: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.360 \end{enumerate}
+                     
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./recipe_book.tex:360: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.360 \end{enumerate}
+                     
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+./recipe_book.tex:360: Missing $ inserted.
+<inserted text> 
+                $
+l.360 \end{enumerate}
+                     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (174.8222pt too wide) in paragraph at lines 358--361
+[]\OT1/cmr/m/n/10 Grind the https://comptox.epa.gov/dashboard/chemical\OMS/cmsy
+/m/n/10 n$[]\OML/cmm/m/it/10 ists=ACSREAGandscatteritneararoaringfire; thencoll
+ecttheremnants:GrindtheRose \OMS/cmsy/m/n/10 ^^@
+ []
+
+[14] [15] [16] [17] [18] [19] [20] [21] [22] [23] [24] [25] [26] [27] [28]
+[29] [30] [31] [32] [33] [34] [35] [36] [37] [38] [39] [40] [41] [42] [43]
+[44] [45] [46] [47] [48] [49] [50] [51] [52] [53] [54] [55] [56] [57] [58]
+[59] [60] [61] [62] [63] [64] [65] [66] [67] [68] [69] [70] [71] [72] [73]
+[74] [75] [76] [77] [78] [79] [80] [81] [82] [83] [84] [85] [86] [87] [88]
+[89] [90] [91] [92] [93] [94] [95] [96] [97] [98] [99] [100] [101] [102]
+[103] [104] [105] [106] [107] [108] [109] [110] [111] [112] [113] [114]
+[115] [116] [117] [118]
+
+./recipe_book.tex:3377: LaTeX Error: Unicode character ​ (U+200B)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2141   \item 7 portions 蔊菜
-                                
+l.3377   \item 8 pieces sea ​
+                               ​urchin
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-./recipe_book.tex:2152: LaTeX Error: Unicode character 蔊 (U+850A)
+./recipe_book.tex:3377: LaTeX Error: Unicode character ​ (U+200B)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2152   \item Place the 蔊
-                            菜 at the top of a mountain to dry and then com...
-
+l.3377   \item 8 pieces sea ​​
+                                  urchin
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-./recipe_book.tex:2152: LaTeX Error: Unicode character 菜 (U+83DC)
+./recipe_book.tex:3389: LaTeX Error: Unicode character ​ (U+200B)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2152   \item Place the 蔊菜
-                                at the top of a mountain to dry and then com...
+l.3389   \item Boil the sea ​
+                               ​urchin in a vessel made of pure earth.
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./recipe_book.tex:3389: LaTeX Error: Unicode character ​ (U+200B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3389   \item Boil the sea ​​
+                                  urchin in a vessel made of pure earth.
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+[119] [120] [121] [122] [123] [124] [125] [126] [127] [128] [129] [130]
+[131] [132] [133] [134] [135] [136] [137] [138] [139] [140] [141] [142]
+[143] [144] [145] [146] [147] [148] [149] [150] [151] [152] [153] [154]
+[155] [156] [157] [158] [159] [160] [161] [162] [163] [164] [165] [166]
+[167] [168] [169] [170] [171] [172] [173] [174] [175] [176] [177] [178]
+[179] [180] [181] [182] [183] [184] [185] [186] [187] [188] [189] [190]
+[191] [192] [193] [194] [195] [196] [197] [198] [199] [200] [201] [202]
+[203] [204] [205] [206] [207] [208] [209] [210] [211] [212] [213] [214]
+[215] [216] [217] [218] [219] [220] [221]
+
+./recipe_book.tex:6425: LaTeX Error: Unicode character ​ (U+200B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6425   \item Half a teaspoon Sliced ​
+                                         ​turmeric
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./recipe_book.tex:6425: LaTeX Error: Unicode character ​ (U+200B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6425   \item Half a teaspoon Sliced ​​
+                                            turmeric
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./recipe_book.tex:6438: LaTeX Error: Unicode character ​ (U+200B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6438   \item Freeze the Sliced ​
+                                    ​turmeric while whispering the name of...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
-[75] [76] [77] [78] [79] [80] [81] [82] [83] [84] [85] [86] [87]
+
+./recipe_book.tex:6438: LaTeX Error: Unicode character ​ (U+200B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6438   \item Freeze the Sliced ​​
+                                       turmeric while whispering the name of...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+[222] [223] [224] [225] [226] [227] [228] [229] [230] [231] [232]
 (./recipe_book.aux) ) 
 Here is how much of TeX's memory you used:
- 1083 strings out of 476025
- 18609 string characters out of 5790017
+ 1084 strings out of 476025
+ 18631 string characters out of 5790017
  1856388 words of memory out of 5000000
- 21586 multiletter control sequences out of 15000+600000
+ 21587 multiletter control sequences out of 15000+600000
  516570 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,6n,62p,539b,196s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,6n,62p,449b,196s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/ams
 fonts/cm/cmbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsf
 onts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmr17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfr
-m1000.pfb>
-Output written on recipe_book.pdf (87 pages, 183452 bytes).
+nts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmmi7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmr17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+sy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm10
+00.pfb>
+Output written on recipe_book.pdf (232 pages, 351332 bytes).
 PDF statistics:
- 322 PDF objects out of 1000 (max. 8388607)
- 216 compressed objects within 3 object streams
+ 800 PDF objects out of 1000 (max. 8388607)
+ 542 compressed objects within 6 object streams
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

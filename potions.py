@@ -22,6 +22,7 @@ def latex_escape(text):
         text = text.replace(char, escaped_char)
     return text
 
+# Load SpaCy model (ensure 'en_core_web_sm' is installed)
 try:
     nlp = spacy.load('en_core_web_sm')
 except OSError:
@@ -115,39 +116,20 @@ def generate_measurement():
 
         return f"{quantity_str} {unit_str}"
 
+# Read data from files
 with open('ingredients/colors.txt', 'r') as f:
     colors = [line.strip() for line in f if line.strip()]
 
 with open('ingredients/reagents.txt', 'r') as f:
-#    raw_reagents = [line.strip() for line in f if line.strip()]
+    # raw_reagents = [line.strip() for line in f if line.strip()]
     reagents = [line.strip() for line in f if line.strip()]
 
 # Process reagents to normalize capitalization, NOT WORKING!
-""" def process_reagents(reagents_list):
-    processed_reagents = []
-    for reagent in reagents_list:
-        # Create a context sentence
-        sentence = f"I need {reagent}."
-        # Parse the sentence with SpaCy
-        doc = nlp(sentence)
-        # Extract the tokens corresponding to the reagent
-        # Tokens after 'need' and before the period
-        reagent_tokens = [token for token in doc if token.i > 1 and token.i < len(doc) - 1]
-        # Process the reagent tokens
-        processed_tokens = []
-        for token in reagent_tokens:
-            if token.pos_ != 'PROPN':
-                # If not a proper noun, lowercase the word
-                processed_tokens.append(token.text.lower())
-            else:
-                # Keep the original casing for proper nouns
-                processed_tokens.append(token.text)
-        # Reconstruct the reagent name
-        processed_reagent = ' '.join(processed_tokens)
-        processed_reagents.append(processed_reagent)
-    return processed_reagents
-
-reagents = process_reagents(raw_reagents) """
+"""
+def process_reagents(reagents_list):
+    # ... (function code)
+reagents = process_reagents(raw_reagents)
+"""
 
 with open('ingredients/effects.txt', 'r') as f:
     effects_text = f.read()
@@ -167,9 +149,9 @@ with open('ingredients/color_potion_origins.txt', 'r') as f:
 with open('ingredients/skill_potion_origins.txt', 'r') as f:
     skill_potion_origins = [line.strip() for line in f if line.strip()]
 
-text_model = POSifiedText(effects_text, state_size=2)
+text_model = POSifiedText(effects_text, state_size=3)
 
-num_pages = 100 
+num_pages = 550
 
 base_grammar_rules = {
     'adjective': adjectives,
@@ -206,6 +188,9 @@ base_grammar_rules = {
     ],
 }
 
+# Initialize total word count
+total_word_count = 0
+
 with open('recipe_book.tex', 'w') as f:
     f.write('\\documentclass{article}\n')
     f.write('\\usepackage[margin=1in]{geometry}\n')
@@ -215,7 +200,7 @@ with open('recipe_book.tex', 'w') as f:
 
     f.write('\\begin{document}\n\n')
     f.write('\\maketitle\n\n')
-    
+
     generated_sentences = set()
     recipe_names = []
 
@@ -235,6 +220,12 @@ with open('recipe_book.tex', 'w') as f:
             continue
         recipe_names.append(recipe_name)
 
+        # Initialize word count for this recipe
+        recipe_word_count = 0
+
+        # Add recipe name word count
+        recipe_word_count += len(recipe_name.split())
+
         num_ingredients = random.randint(3, 8)
         ingredients_list = []
         ingredient_details = []
@@ -243,6 +234,10 @@ with open('recipe_book.tex', 'w') as f:
             ingredient = random.choice(reagents)
             ingredients_list.append(latex_escape(f"{measurement} {ingredient}"))
             ingredient_details.append({'measurement': measurement, 'ingredient': ingredient})
+
+        # Add ingredients word count
+        ingredients_text = ' '.join(ingredients_list)
+        recipe_word_count += len(ingredients_text.split())
 
         num_sentences = random.randint(2, 3)
         sentences = []
@@ -272,7 +267,12 @@ with open('recipe_book.tex', 'w') as f:
                 sentences.append(sentence)
                 generated_sentences.add(sentence)
 
-        effects_paragraph = latex_escape(' '.join(sentences))
+        effects_paragraph = ' '.join(sentences)
+        # Add effects paragraph word count
+        recipe_word_count += len(effects_paragraph.split())
+
+        effects_paragraph_escaped = latex_escape(effects_paragraph)
+
         steps = []
         for i, ingredient_detail in enumerate(ingredient_details):
             if i < len(ingredient_details) - 1:
@@ -296,6 +296,11 @@ with open('recipe_book.tex', 'w') as f:
             step = step_grammar.flatten('#origin#')
             steps.append(step)
 
+        # Add instructions word count
+        instructions_text = ' '.join(steps)
+        recipe_word_count += len(instructions_text.split())
+
+        # Write to LaTeX file
         f.write('\\newpage\n')
         f.write(f'\\section*{{{recipe_name}}}\n\n')
         f.write('\\addcontentsline{toc}{section}{' + recipe_name + '}\n')
@@ -312,6 +317,12 @@ with open('recipe_book.tex', 'w') as f:
         f.write('\\end{enumerate}\n\n')
 
         f.write('\\textbf{Effects:}\n\n')
-        f.write(f'{effects_paragraph}\n\n')
+        f.write(f'{effects_paragraph_escaped}\n\n')
+
+        # Update total word count
+        total_word_count += recipe_word_count
 
     f.write('\\end{document}\n')
+
+# Print total word count
+print(f"Total word count of generated content: {total_word_count}")
