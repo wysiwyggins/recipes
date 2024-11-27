@@ -1,0 +1,413 @@
+antique white
+blue
+light blue
+robin's egg blue
+powder blue
+blue-violet
+chartreuse
+cornflower blue
+cornsilk
+deep pink
+deep sky blue
+fire brick
+floral white
+flourescent blue
+flourescent green
+flourescent orange
+flourescent yellow
+forest green
+ghost white
+glittery
+glow in the dark
+gold
+golden
+goldenrod
+green-yellow
+honeydew
+hot pink
+ivory
+lavender
+lavender blush
+light blue
+light coral
+light cyan
+light goldenrod
+light goldenrod yellow
+light green
+light pink
+light salmon
+light sea green
+light sky blue
+light slate blue
+light slate gray
+light steel blue
+light yellow
+lime green
+orange
+orange-red
+orchid
+paisley
+pale green
+pale turquoise
+pale violet-red
+pale goldenrod
+rainbow
+rust colored
+red
+silver
+sky blue
+snow
+sparkly
+spring green
+steel blue
+tartan
+transparent
+tye-dye
+violet
+violet-red
+wheat
+white
+yellow
+yellow-green
+black
+brown
+camouflage
+dark gray
+dark slate-gray
+dark turquoise
+dark violet
+dim gray
+gray
+grey
+light slate-gray
+matte black
+midnight blue
+navy
+navy-blue
+slate-gray
+pentalon
+iced watermelon
+crystal pink
+pale lychee
+pale poppy
+arctic rose
+gellibrand
+iced vovo
+pink ice
+magenta twilight
+persian pastel
+lavender mist
+desert bud
+tropical orchid
+aster
+mauve jazz
+raspberry whip
+tea rose
+dusky cyclamen
+berry crush
+grenache
+plum crush
+grape grey
+loganberry
+legal ribbon
+vulcan burgundy
+cajun brown
+rubine
+red vine
+false chrome
+Pink
+LightPink
+HotPink
+DeepPink
+PaleVioletRed
+MediumVioletRed
+Lavender
+Thistle
+Plum
+Orchid
+Violet
+Fuchsia
+Magenta
+MediumOrchid
+BlueViolet
+DarkMagenta
+Purple
+MediumPurple
+MediumSlateBlue
+SlateBlue
+DarkSlateBlue
+RebeccaPurple
+Indigo 
+LightSalmon
+Salmon
+DarkSalmon
+LightCoral
+Crimson
+Red
+FireBrick
+DarkRed
+Orange Colors
+Orange
+DarkOrange
+Coral
+Tomato
+OrangeRed
+antique white
+blue
+light blue
+robin's egg blue
+powder blue
+blue-violet
+chartreuse
+cornflower blue
+cornsilk
+deep pink
+deep sky blue
+fire brick
+floral white
+flourescent blue
+flourescent green
+flourescent orange
+flourescent yellow
+forest green
+ghost white
+glittery
+glow in the dark
+gold
+golden
+goldenrod
+green-yellow
+honeydew
+hot pink
+ivory
+lavender
+lavender blush
+light blue
+light coral
+light cyan
+light goldenrod
+light goldenrod yellow
+light green
+light pink
+light salmon
+light sea green
+light sky blue
+light slate blue
+light slate gray
+light steel blue
+light yellow
+lime green
+navajo white
+orange
+orange-red
+orchid
+paisley
+pale green
+pale turquoise
+pale violet-red
+pale goldenrod
+rainbow
+rust colored
+red
+silver
+sky blue
+snow
+sparkly
+spring green
+steel blue
+tartan
+transparent
+tye-dye
+violet
+violet-red
+wheat
+white
+yellow
+yellow-green
+black
+brown
+camouflage
+dark gray
+dark slate-gray
+dark turquoise
+dark violet
+dim gray
+gray
+grey
+light slate-gray
+matte black
+midnight blue
+navy
+navy-blue
+slate-gray
+moonblue
+mulberrycoloured
+goldseam
+whitegloved
+froggreen
+Saltwhite
+eggblue
+greenhouse
+blackgrouse
+goldenly
+greenvested
+greens
+indigoblue
+violet
+yellowly
+blackened
+bronzegold
+greyeyed
+blackguardlooking
+bluecoat
+greengoldenly
+green
+bluesilver
+green
+blackmail
+blackrimmed
+lemonyellow
+whitehot
+oranges
+coloured
+yellow
+discoloured
+goldskinned
+bloodcoloured
+skyblue
+rubycoloured
+greenhouses
+blackbearded
+sadcoloured
+blackmasked
+Snotgreen
+winecoloured
+bowlinggreen
+whitepolled
+Yellowgreen
+blackberry
+greenish
+greylunged
+discolouration
+greyly
+green
+goldenbrown
+bluebottle
+tallwhitehatted
+greeny
+orangeman
+Hupinkoff
+particoloured
+minagold
+sagegreen
+goldrimmed
+blue
+blues
+baldpink
+whitelined
+dunducketymudcoloured
+girlwhite
+milkwhite
+multicoloured
+orangeblossoms
+shoeblack
+orangeflower
+johnyellow
+goldring
+rosepink
+nightblue
+saltblue
+bluestreaked
+yellowjohns
+black
+blackguardism
+whitest
+oceangreen
+yellowed
+goldcurb
+goldhaired
+Girlgold
+greencapped
+whitelivered
+greying
+lilywhite
+Minagold
+whiterose
+quakergrey
+orangefiery
+golden
+whitey
+bluehued
+whites
+peepofgold
+smokeblue
+orangekeyed
+goldbronze
+blueglancing
+tabbywhite
+whitearsed
+blackspectacled
+saltwhite
+greyedauburn
+orangepeels
+bootblack
+whitewash
+whiteheaped
+whiteeyed
+blued
+Shanagolden
+goldstopped
+pusyellow
+greybearded
+blackguard
+violet
+darkgreener
+bluey
+blackbeetles
+yellowslobbered
+peagreen
+sunnygolden
+yellowish
+whiteflattened
+whitemaned
+blackdraped
+whitewashed
+violets
+blackguards
+blacknailed
+snotgreen
+greyhound
+whiteness
+whitetallhatted
+pinky
+goldtooled
+blueeyed
+seagreen
+greeneyed
+sausagepink
+Fuseblue
+whitened
+yellowkitefaced
+goldsmith
+wavewhite
+coralpink
+evergreen
+blacked
+greenroom
+elephantgrey
+whitegaitered
+whitewax
+colouring
+shellcocoacoloured
+blacker
+gigglegold
+orangetainted
+bluecircled
+greyish
+jadegreen
+whitesmocked
+blackthumbed
+bluest
+white
+coalblack
+blackbottom

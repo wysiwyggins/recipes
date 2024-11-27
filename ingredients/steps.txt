@@ -1,0 +1,68 @@
+Soak #measurement# of #ingredient# in water #time_phrase#.
+Pour the #ingredient# into a clean #container#.
+Place the #ingredient# #location# to dry and then combine it with #next_ingredient#.
+Feed the #ingredient# to a pig and then return later to collect its excrement, mixing it with #next_ingredient# until the smell is less #smell_adjective#.
+Clean the #ingredient# #adverb# before shaking it in a #container# with #next_ingredient#.
+Add the #ingredient# by the spoonful, folding until smooth.
+Combine the #ingredient# with clear water and freeze it #location#.
+Toast the #ingredient# #adverb# over an open fire. #adverb.capitalize# add the #next_ingredient#.
+Allow the #ingredient# to be carried away by the wind, then collect what remains.
+Ferment the #ingredient# for 1 to ten years.
+Chill the #ingredient# under the shadow of a passing cloud before adding.
+Mix #ingredient# and #next_ingredient# in a sturdy drum.
+Trace your intention in the #ingredient#, then cast it in an open flame.
+When you have mixed #ingredient# thoroughly, pour into a dish and cover with a crock.
+Mould balls as large as the fist, of #ingredient# and #next_ingredient#.
+You may place the #ingredient# in one vessel, and the #next_ingredient# likewise in one vessel.
+Make the #next_ingredient# the same way as the #ingredient#, except that you use a vessel with a hole in the bottom; press it through this hole into boiling lard.
+Whisper #celestial_event# over the #ingredient#, then immerse it in #random_element#.
+Engrave symbols of the #animal# onto the #ingredient# using a fine tool.
+Distill the essence of #ingredient# #adverb# and collect it in a #container#.
+Submerge the #ingredient# and #next_ingredient# in a bath of #color# light #time_phrase#.
+Chant over the #ingredient# while circling it with #random_element#.
+Suspend the #ingredient# above a flame until it turns #color#.
+Infuse the #ingredient# with the spirit of a #animal# by leaving it #location#.
+Boil the #ingredient# in a #container# made of pure #random_element#.
+Tie the #ingredient# and #next_ingredient# together with a strand of #animal# hair.
+Paint the #ingredient# with the essence of #next_ingredient# #location#.
+Expose the #ingredient# to #celestial_event# to absorb its energies.
+Steep the #ingredient# in #random_element# and stir #adverb#.
+Freeze the #ingredient# alongside a #animal# feather #time_phrase#.
+Write on the #ingredient# with ink made from #next_ingredient#.
+Dip the #ingredient# into a pool of #color# liquid #location#.
+Sing to the #ingredient# until it resonates with #random_element#.
+Bathe the #ingredient# in moonlight during #celestial_event#.
+Grind the #ingredient# and scatter it #location#, then collect the remnants.
+Submerge the #ingredient# in a mixture of #next_ingredient# and #random_element#.
+Secretly exchange the #ingredient# with its reflection in a mirror #time_phrase#.
+Gently fold the #ingredient# into the #next_ingredient#, ensuring no air bubbles form.
+Allow the #ingredient# to rest within a circle of #animal# stones #time_phrase#.
+Immerse the #ingredient# in #random_element# until it becomes translucent.
+Tie a #color# ribbon around the #ingredient# before proceeding.
+Boil the #ingredient# under the influence of #celestial_event#.
+Ferment the #ingredient# with a pinch of #next_ingredient# for added potency.
+Place the #ingredient# atop a #container# and let the essence drip into it.
+Freeze the #ingredient# while whispering the name of a forgotten #animal#.
+Mix the powdered #ingredient# with #color# sand and heat #adverb#.
+Bathe the #ingredient# in the flames of #random_element# for purification.
+Distill #measurement# of #ingredient# during #celestial_event# and store it in a #container#.
+Expose the #ingredient# to the song of a #animal# at dawn.
+Immerse the #ingredient# in a vat of #color# dye #time_phrase#.
+Carefully etch the symbol of #random_element# onto the surface of the #ingredient#.
+Submerge the #ingredient# in liquid #random_element# and watch for a #color# hue.
+Collect the dew from #ingredient# #location# and mix it with #next_ingredient#.
+Anoint the #ingredient# with oils derived from #animal# glands.
+Tie the #ingredient# with threads of #color# silk before combining it with #next_ingredient#.
+Hang the #ingredient# above a #random_element# source until it absorbs its essence.
+Gently massage the #ingredient# with crushed #next_ingredient# #time_phrase#.
+Write incantations on the #ingredient# using a small bone from a #animal#.
+Let the #ingredient# bask under #celestial_event# to enhance its properties.
+Wrap the #ingredient# in leaves of #next_ingredient# and bury it #location#.
+Strike the #ingredient# with a rod of pure #random_element# precisely at midnight.
+Boil the #ingredient# together with #next_ingredient# in a #container# until #adjective#.
+Whisper ancient words to the #ingredient# while it rests #location#.
+Place the #ingredient# inside a circle drawn with #color# chalk #time_phrase#.
+Burn the #ingredient# along with #next_ingredient# to create a sacred ash.
+Immerse the #ingredient# in a #container# filled with #smell_adjective# herbs.
+Blend the #ingredient# with the tears of a #animal# collected #time_phrase#.
+Draw symbols of #random_element# around the #ingredient# before proceeding.

@@ -1,0 +1,3595 @@
+# https://www.snh.cc/100_Herb_List.pdf
+Alfalfa
+Aloe vera
+Apple
+Apricot
+Barberry
+Blue Cohosh
+Blue Vervain
+Brigham Tea
+Buckthorn
+Bugleweed
+Burdock
+Carrot
+Catnip
+Cayenne
+Bayberry
+Black Cohosh
+Black Walnut
+Blessed Thistle
+Cedar
+Chaparral
+Chickweed
+Cloves
+Comfrey
+Cramp Bark
+Dandelion
+Desert Sage
+Echinacea
+Elder
+Blue-berried
+Eyebright
+False Unicorn
+Fennel
+Flax
+Garlic
+Ginger
+Gingko
+Ginseng
+Golden Seal
+Gravel Root
+Hawthorne
+Hops
+Horseradish
+Horsetail
+Hydrangea
+Juniper
+Kelp
+Licorice
+Lobelia
+Male Fern
+Marigold
+Marsh Mallow
+Mistletoe
+Mullein
+Myrrh
+Nettles (Stinging)
+Oats
+Olive
+Onion
+Papaya
+Parsley
+Pennyroyal
+Peppermint
+Pine
+Plantain
+Poke
+Pomegranate
+Prickly Ash
+Raspberry
+Red Clover
+Rose
+Rosemary
+Sage
+Sarsaparilla
+Sassafras
+Saw Palmetto
+Skullcap
+Senna
+Shepherd's Purse
+Skunk Cabbage
+Slippery Elm
+Spearmint
+Squaw Vine
+St. John's Wort
+Turkey Rhubarb
+Uva-Ursi
+Valerian
+Watercress
+Wheat
+White Oak
+White Pond Lily
+White Poplar
+Quaking Aspen
+Wild Lettuce
+Wild Yam
+Willow
+Wood Betony
+Wormwood
+Yarrow
+Yellow Dock
+#translated from https://raw.githubusercontent.com/yao8839836/PTM/master/data/herbs_list.txt
+Starfish
+Mimosa
+Huashan Ginseng
+Bezoar
+Snake slough
+grasshopper
+Purple Bay Teeth
+Quail
+Lark
+Chestnut
+Tonic
+Raspberry
+pigeon
+Gecko
+Wolfberry
+Melon
+Sea cucumber
+Yellow dog kidney
+sea ​​bass
+antlers
+Antler Gum
+Antler
+Astragalus
+Yam
+wheat
+Bergenia
+Pig bile
+Bupleurum
+Pueraria
+Qianghuo
+Cohosh
+Guardi
+Basil
+papaya
+Huoxiang
+Perrin
+Amomum
+White cardamom
+Atractylodes
+Magnolia
+Magnolia Flower
+Cardamom
+Tsaoko
+White aconite
+White front
+Pinellia
+Tangerine peel
+Cholesterol
+Pinellia
+Pumice stone
+Gualou
+Gua Liao Pi
+Gualouzi
+Orange Red
+Golden boiled grass
+Platycodon
+Orange
+Orchid Vanilla
+Qian Hu
+Shanzi Mushroom
+Lycoris
+Araceae
+Corrugated
+Five-finger hair peach
+Inula
+Phyllanthus emblica
+Saponite
+Citrus aurantium
+Pig tooth soap
+Zhuru
+Bamboo leaves
+Ba Li Ma
+Prunella vulgaris
+Rhododendron odorifera
+Manshanhong
+Hibiscus arborescens
+Loquat
+Loquat leaves
+Fritillaria
+Sea buckthorn
+Light scatter
+Passionflower
+citron
+Rhododendron xinanensis
+pomelo
+Stalactite
+Rhododendron purpurea
+Aster
+Zhuli
+Monkey Date
+Tinglizi
+Khumbu
+Seaweed
+Water chestnuts
+Wood butterfly
+Honey locust
+Mustard Seeds
+Celestial shell
+Alum
+Castor bean
+Toad
+Smelly peony
+Soybeans
+Bile alum
+Light tempeh
+Guava
+Black ant
+Huanglian
+Huangyaozi
+Sulfur
+potato
+Medical stone
+Lead
+Abutilon
+Abutilon
+Bolster
+realgar
+Tobacco
+Benzoin
+Borneol
+Nine-section calamus
+cocoa
+Musk
+Calamus
+Su Hexiang
+Camphor
+Octagonal maple
+August
+Betel nut
+Agarwood
+Stinky Indus
+Chuan Neem
+Kawamuka
+Hedgehog skin
+Big belly skin
+Garlic
+Sword Beans
+Cardamom
+Bergamot
+Gan Song
+Olive pit
+Citrus
+Alocasia
+Rosewood
+Yellow leather
+fennel
+Chicken Yafuji
+Dalbergia
+Gurixiang
+Nine Fragrant Worm
+Tangerine
+coffee
+Raspberry
+Lychee
+Civet
+Rose flower
+Plum blossom
+Casuarina
+Woody
+Buckwheat
+Green leather
+Shanxi
+Hawthorn
+Persimmon
+Yam buttercup
+Saffron
+Salozi
+sandalwood
+Elecampane
+pea
+Black medicine
+turnip
+Fennel
+Scallion white
+flax
+Yanhusuo
+Dahlia
+poppy
+Turmeric
+Predictor
+Fructus Aurantii
+Perilla Terrier
+Tangerine
+Tangerine Leaf
+Xiangfu
+Bergamot flower
+Generation ocher
+clove
+Persimmon Frost
+Cool blood
+Soil beetle
+Agrimonia
+Purple beads
+Broad Bean Flower
+Shepherd's purse flower
+Geotrichum
+Ai Ye
+Thistle
+Arborvitae leaves
+Camellia
+Sophora japonica
+Sanguis
+Madder
+Madder vine
+Puhuang
+Baicao Frost
+Tomb back
+Stamen
+Chuanxiong
+Salvia
+Peach kernel
+safflower
+Zeland
+Verbena
+mastic
+Myrrh
+Wulingzhi
+turmeric
+Summer without
+Rose flower
+Motherwort
+Caulis spatholobi
+pangolin
+Wang Bu Liu Xing
+Achyranthes
+Sumu
+Liu Jinu
+leech
+Gadfly
+Dry paint
+Asafoetida
+Trumpet creeper
+Natural copper
+Lobelia
+萆薢
+tea
+Plantain
+Plantago
+Chixiaodou
+Chuanmutong
+rush
+Earthenia
+Kochia scoparia
+Winter melon
+Winter Melon Peel
+Mallow
+Mallow
+Solo dishes
+Fenyi
+Sea sands
+gourd
+talcum powder
+Oleander
+Lysimachia
+Golden Needle
+endive
+xanthophyll
+Lu Ying
+Passepartout
+radish
+Cotton
+Light powder
+Mulberry
+Mulberry
+Pokeweed
+Shi Wei
+Water lotus
+Loofah
+Coriander
+Celestial vine
+Melon seeds
+Tongcao
+Tuckahoe
+Watermelon rind
+Xiangjiapi
+Commelina communis
+Coix Seed
+Yin Chen
+Corn silk
+Yu Liren
+Alisma
+Polyporus
+Bristlegrass
+Poria
+Stalk grass
+Mallow seeds
+Mutong
+talc
+Cumulus
+Dianthus
+Winter melon seeds
+Zeqi
+Mole cricket
+Artemisia spp
+Weeping grass
+Three-thirds
+Daffodil
+turtle shell
+Periwinkle
+magnet
+Goblin Grass
+Uncaria
+Celery
+Tribulus
+Golden stone
+Antelope horn
+Apocynum venetum
+Rauvolu
+Hibiscus
+Blue Stone
+Aoki Xiang
+Mulberry Leaf
+Shi Jueming
+Gastrodia
+Heaven Fairy
+Extinguishing wind
+ocher
+mother of pearl
+Chonglou
+Salsola
+Goat horn
+Tortoiseshell
+Ma Bao
+Gou Bao
+Amethyst
+White quartz
+Scorpion
+Centipede
+gecko
+Earthworm
+Chayote
+Clam shell
+Cold water stone
+Stiff silkworm
+Calamine
+Aristoloch
+Glauber's salt
+snails
+Rhino horn
+Bear bile
+Magnolia
+pearl
+Scutellaria
+Cork
+Hu Huanglian
+Qin Pi
+Sophora flavescens
+Green argentea
+Cassia
+Luminosa
+Senecio
+Xanthium
+Torreya
+Maple
+Crane grass bud
+Crane louse
+Neem
+Scopole
+Raimaru
+pumpkin seeds
+South crane louse
+Petunias
+Pomegranate peel
+Make a gentleman
+rosin
+Nepeta
+Turnip
+Saponaria thorn
+Partridge
+Guanzhong
+Eucalyptus oil
+Star anise
+Leopard bone
+Cocklebur
+Grass black
+Chuanwu
+Ground maple
+Ding Gongteng
+Guangfangji
+Sea Breeze Vine
+Pittosporum
+Mistletoe
+Knotweed
+Impatient
+Cuspidate maple
+Money White Flower Snake
+Jiujie Tea
+Absinthe
+Bitter bean root
+Tripterygium wilfordii
+Two pointed
+Trachelospermi
+Horse money
+Masan
+Buy matteng
+Yanghua
+Viper
+Gentiana
+mulberry
+Snake Venom
+Tentengrass
+Heather Vine
+Shou Palace
+Shouwu vine
+Pine knot
+Tianshan snow lotus
+Willingxian
+Wen Guan Guo
+Aconitum
+Acanthopanax
+Siegesbeckia
+Asarum
+Xu Changqing
+Artemisia arborescens
+Bone-seeking style
+Shofar
+Evening primrose
+Chuanwu
+Morus parasiticum
+Elderberry
+North Bean Root
+Silkworm sand
+Dafengzi
+hive
+Viper
+Willow
+Hook
+Black soybean
+Walnut Green Peel
+Tiger bone
+Maqianzi
+Honeysuckle Vine
+Black Snake
+Linseed
+spider
+Milkvetch
+Buddleia
+Piper longum
+Citronella
+aconite
+Dried ginger
+pepper
+Pepper
+Mustard
+Kava Root
+chili
+Female lilac
+Paojiang
+Mountain pepper
+Grass black
+cinnamon
+Evodia
+Galangal
+Jiaomen
+White lentils
+green beans
+melon
+Elsholtzia
+sea ​​urchin
+Cat's claw
+Mubiezi
+lizard
+Xuanming powder
+pyrethrum
+Euphorbia
+Arsenic
+Mochizuki sand
+Red stone fat
+Tsubaki
+Calcined gypsum
+beeswax
+Floating wheat
+Antiperspirant
+Myrobalan
+Jin Yingzi
+Lotus seeds
+Ephedra Root
+Glutinous rice fibrous root
+nutmeg
+pomegranate
+Jujube Seed
+Vason
+Puzzle
+Yu Yuliang
+Dogwood
+Schisandra
+Ume
+Shilianzi
+Hasu
+Navy fruit
+Gall
+Poppy shell
+Eichhornia crassipes
+Gorgon
+Mulberry
+Celosia
+Glutinous rice root
+ginkgo
+Ginkgo Leaf
+Red powder
+Mountain bamboo
+Garcinia
+Earth Vitex
+Ximen lung grass
+Ichthyol
+White mustard
+Ginger
+Dill
+Prickly pear
+Rice sprouts
+Gu Ya
+Gallus gallus
+Jiao Betel Nut
+malt
+Changshan
+Emetic holly
+Ginseng reed
+White mandala
+White Peony
+Grass black leaves
+Red peony
+Ground Berry
+Belladonna
+Bitter dish
+Basil leaves
+Insect medicine
+Phoenix clothing
+Seal kidney
+Cuttlefish
+Dragon Tooth
+Ox gall
+eraser
+mussels
+Kelp
+Purple Sea Urchin
+Ammonium compounds
+Calcium compounds
+Mercury compounds
+Silicon compounds
+Potassium compounds
+Sulfur compounds
+Aluminum compounds
+Magnesium compounds
+Manganese compounds
+Sodium compounds
+Lead compounds
+Arsenic compounds
+Iron compounds
+Copper compounds
+Zinc compounds
+lily
+Bai Ziren
+Guangzao
+Albizia
+Albizia
+Polygonum multiflorum
+mushroom
+Hops
+Ginseng Leaf
+Saffron
+Valerian
+Polygala
+Yekoto
+kaoliang cereals
+amber
+keel
+Oyster
+Cinnabar
+Atractylodes
+broad bean
+Jujube
+Codonopsis
+Sweet potato
+Licorice
+sweet potato
+Red ginseng
+Red sedge
+Polygonatum
+Astragalus
+Ganoderma
+Fungus
+pumpkin
+Milk syrup
+grape
+Ginseng
+Taizishen
+Codonopsis
+Ginseng
+Caramel
+Roasted Licorice
+Zhihongqi
+Ming Dangshen
+Lentil
+Lentil Flower
+Umbilical cord
+Heather
+Thymus
+Chu Shizi
+Acanthopanax
+Eucommia
+Eucommia Leaves
+Dog ridge
+Hama oil
+Sea dragon
+Hippocampus
+Renilla
+Walnut
+Black sesame
+Nigella
+Fenugreek
+Return Yang Ginseng
+Leek Seeds
+Listang
+Schisandra
+Ligustrum
+Green Sheep Ginseng
+Ginseng Fruit
+Cistanche
+Elaeagnus
+Pecans
+Cnidium
+Stone flower
+Rehmannia glutinosa
+Cynomorium
+Cuscuta
+Teasel
+Snow lotus
+Epimedium
+Polygonum multiflorum
+Donkey-hide glue
+Angelica
+Tortoiseshell
+Tortoise shell glue
+Chicken
+Longan
+Longan Meat
+Mulberry
+Bamboo joint ginseng
+Mulberry
+Morinda
+Psoralen
+Cordyceps sinensis
+Guizhi
+Lily of the valley
+Curculio
+Yang Qishi
+Antler Cream
+Yizhiren
+Chives
+Drynaria
+Cotton seed
+pear
+Peach
+apple
+Adenophora
+tomato
+honey
+Turtle
+Caragana
+Plum
+Ophiopogon japonicus
+Mango
+Eclipta prostrata
+Adenophora
+lemon
+Ophiopogon japonicus
+Rehmannia
+Dendrobium
+Tiandong
+Fresh Rehmannia
+Blood Charcoal
+Digitalis leaf
+Ibeim
+Tremella
+Polygonatum
+Pearl ginseng
+Adenophora
+Pearl Ginseng
+Asparagus
+Ophiopogon japonicus
+Ligustrum leaf
+Turtle Glue
+Patchouli
+Dwarf tea
+Celandine
+Violent martin
+Sichuan Fritillaria
+Melon seed gold
+Elaeagnus
+Lucky Grass
+Gynostemma
+Bitter almonds
+Coltsfoot
+Cat's eye
+Vitex
+Vitex Leaf
+Nan Tianzhu
+Burdock
+Amaranth
+Clover
+Sage
+Pine cone
+Iron-clad gold
+Mustang Chasing
+Ginkgo biloba
+Fritillaria
+almond
+蔊菜
+Nan Zhuzi
+Chicken yellow
+mint
+free oneself
+duckweed
+chrysanthemum
+Astilbe
+Vitex
+Horse thief
+Burdock
+Mountain Sesame
+Stone pepper grass
+Water centipede
+Fish herb
+Angelica dahurica
+Tamarix
+very light blue
+Big head chen
+Erigeron
+Gao Ben
+Cinnamon
+Nepeta
+Eucalyptus globulus
+Lingxiang
+Ephedra
+Shi Shang Bai
+Xihe Liu
+Chives
+lemongrass
+Xin Yi
+Coriander
+Tibetan calamus
+Dragon Blood
+barley
+Chives
+Heartland
+apricot
+Yu Li
+Reed root
+reed
+Perilla Seed
+Green calyx plum
+Trillium
+Curcuma
+Sliced ​​turmeric
+Rhodiola
+Sedum notoginseng
+Chinese rose
+Raspberry
+Thistle
+Baihuadan
+Cantharidin
+Pierced stone
+Chuanshanlong
+Needlegrass
+Aralia
+Liquidambar
+Ghost Arrow Feather
+Over the mountain dragon
+Rice field eel
+Jin Jinxiang
+Selaginella
+Spicy Polygonum
+Two-sided needle
+Solanum nigrum
+Mao Dongqing
+Notoginseng
+San Ye Qing
+Yarrow
+Asparagus
+Ishimita
+Persimmon
+Sijiqing
+Tianmingjing
+lettuce
+Five plus
+Acanthopanax gracilis
+Xiaoyelian
+Swollen wind
+Cinnabar root
+Sargentodoxa cuneata
+Earth Blood Fragrance
+Unique
+Impatiens
+Tree peony
+Southern Snake Vine
+Privet
+Thousand Gold Frost
+Mountain Vicia
+Hawthorn leaves
+Ratwoman
+Tomegrass
+Yuanbao grass
+Lithospermum
+Pasqueflower
+sorrel
+rhubarb
+Dense flower
+Hibiscus leaf
+South Banlangen
+Indigo
+Buffalo horns
+Loofah
+Brook Yellow Grass
+Pearl grass
+White and
+locust
+Cannabis medicine
+Rhododendron
+Stop blood flow
+Eclipta prostrata
+peanut
+Save Bing
+Lotus room
+Cooling blood hemostatic medicine
+Ceratophyllum
+Puffball
+Lotus root festival
+Shi Er
+Astringent hemostatic drug
+Salmon
+Pine pollen
+Thistle
+Cinnabar seven
+Zijinlong
+Red sandalwood
+Kiwi
+Smilax
+Imperata cylindrica
+Bai Wei
+Danzhu
+Light bamboo leaves
+Desmodium radiata
+Even money grass
+Longxu vine
+Qingfengteng
+Saururus chinensis
+Houttuynia cordata
+Gardenia
+Buttercup
+Scutellaria barbata
+papaya
+Back to back
+cucumber
+Humulus
+Nongjili
+Morning glory
+Tiankui
+evergreen
+Tianzhu Yellow
+Buddha grass
+Strawberry
+Potentilla
+Artemisia dwarf
+Octagonal lotus
+Oldenlandia diffusa
+Bai Su
+Baijiang
+Phlomis
+Herbal Bayberry
+Grass Red Vine
+Stinky Pill
+Andrographis
+Daqingye
+Eucalyptus grandis
+Bile wood
+As medicine
+Intolerance
+Earthenia
+Di Yangmei
+Rubescens
+Poisonous celery
+Eargrass
+Liquidambar
+Propolis
+pineapple
+Olives
+Gang Mei
+Davidia
+Gushanlong
+Lotus leaf
+Red root grass
+Red tube medicine
+Polygonum
+horseshoe crab
+Gourd tea
+Saxifraga
+Tiger Palm Grass
+Huang Su
+Yellow rattan
+Chicken bone grass
+Centella
+Jin Guolan
+Nasturtium
+Golden Buckwheat
+honeysuckle
+Brocade lantern
+Kuditin
+Phalaenopsis tuber
+Geranium
+Veratrum
+Forsythia
+Polygonum aoba
+Brother king
+Leak
+Ring vine
+Podocarpus
+Ma Lin
+Myrobalan
+Mianma Guanzhong
+Hibiscus Bark
+Borax
+Wedelia
+Peril
+Dandelion
+Lacquergrass
+Fist Ginseng
+Trigeminal bitterness
+Cedarwood
+Three needles
+Shandougen
+Lonicera
+Tiankuizi
+Geranium
+beet
+Fritillaria
+Fig
+Camping tree
+Prunella vulgaris
+Scrophulariaceae
+Snow gall
+Brucea javanica
+Salt wood
+onion
+Wild chrysanthemum
+A little red
+Solidago
+parrot
+Yuzhou Leulu
+Yunzhi
+Cinnabar
+Pig sorrow
+Bamboo Forest Mark
+Viola arborescens
+Honeysuckle
+Plowshare
+Blackberry
+Hibiscus
+Hibiscus Leaf
+Bidens
+King Bed
+People in Yellow
+purslane
+Little Scabies
+Corn grass
+Snakeberry
+Pampasca
+Potentilla
+Banlangen
+Earth Bone Skin
+peony
+Peony
+Suo Gu Dan
+Ramie
+Ramie Root
+Comfrey
+Gujingcao
+Guan Cork
+Guan Mutong
+Huaijiao
+Lotus heart
+Aloe
+Luo Han Guo
+Protactinium
+Ten Great Contributions
+plaster
+Trichosanthes
+watermelon
+Zhimu
+Red cardamom
+White fresh peel
+Baiying
+One hundred taels of gold
+Flying grass
+Credit
+Fo Tan Mother
+Bitter beans
+Bitter gourd
+Sufferwood
+Quinoa
+June Snow
+Gentian
+Ma Linzi
+Gooseweed
+Argentea
+Green Leaf Gallbladder
+Yunshi
+Holly leaf
+Artemisia annua
+Silver Bupleurum
+Acutinase injection
+Senna
+Watermelon frost
+croton
+Croton Cream
+Kansui
+Red euphorbia
+Beijing Euphorbia
+Thousand gold
+Euphorbia
+Castor
+Torreya
+Hemp seed
+Insect wax
+Red lead
+Jiang Dan
+Shengdan
+Artificial bile
+Artificial bezoar
+Artificial bear bile
+Ming Weizi
+Canna
+catechu
+Dragon's Blood
+Ichiyo hagi
+Yahunu
+Horse chestnut
+Polygonum
+cactus
+Water spinach
+Ceratophyllum
+Lychee grass
+Antler Grass
+Chlorophytum
+Thin wind wheel
+Amaranth
+Sheep's hoof
+Cinnabar
+Kapok
+spinach
+Palm charcoal
+
+# https://comptox.epa.gov/dashboard/chemical_lists/ACSREAG
+
+Acetonitrile
+Ammonium chloride
+Diammonium citrate
+Ammonium hydroxide
+Aniline
+Arsenic oxide (As2O3)
+L-Ascorbic acid
+Sodium azide
+Barium acetate
+Barium chloride dihydrate
+Benzoic acid
+Benzyl alcohol
+C.I. Acid Blue 74
+Boric acid (H3BO3)
+Potassium bromate
+tert-Butyl alcohol
+Cadmium chloride
+Cadmium sulfate (1:1)
+Cadmium sulfate (1:1) hydrate (3:8)
+Calcium chloride
+Chlorobenzene
+Chloroform
+Citric acid
+Cyclohexanone
+1,2-Dichloroethane
+3,3'-Dimethylbenzidine dihydrochloride
+N,N-Dimethylformamide
+1,4-Dioxane
+Ethanol
+Sodium fluoride
+Formaldehyde
+Furfural
+Gallic acid
+Gentian Violet
+Glycerol
+Glycine
+Methenamine
+Hydrazine sulfate
+Hydrochloric acid
+Hydrogen peroxide
+8-Hydroxyquinoline
+Isopropanol
+Monobasic lead acetate
+Magnesium chloride hexahydrate
+Manganese(II) sulfate monohydrate
+Mercuric chloride
+Methyl tert-butyl ether
+N-Methyl-2-pyrrolidone
+Dichloromethane
+Molybdenum trioxide
+Chloroacetic acid
+N-(1-Naphthyl)ethylenediamine dihydrochloride
+Nickel(II) sulfate hexahydrate
+Sodium nitrate
+Nitrilotriacetic acid
+Sodium nitrite
+Nitrobenzene
+Nitromethane
+Phenol
+Phenolphthalein
+Phthalic anhydride
+Potassium bicarbonate
+Potassium chloride
+1,2-Propylene glycol
+Resorcinol
+C.I. Basic Red 9 monohydrochloride
+Sodium bicarbonate
+Sodium chloride
+Sodium diethyldithiocarbamate trihydrate
+Sodium hypochlorite
+Sucrose
+Sodium sulfate anyhdrous
+Tetrachloroethylene
+Tetrahydrofuran
+Thioacetamide
+Sodium thiocyanate
+Thiourea
+Toluene
+Trichloroacetic acid
+1,1,1-Trichloroethane
+Trichloroethylene
+Urea
+Xylenes
+Zinc(II) acetate dihydrate
+Acetone
+Phthalic acid
+Methyl ethyl ketone
+Diethyl ether
+Methanol
+Dimethyl sulfoxide
+1-Propanol
+1-Butanol
+1-Pentanol
+2-Methyl-1-propanol
+4-Dimethylaminobenzaldehyde
+4-Methyl-2-pentanone
+Isopropyl ether
+Diethylamine
+Cyclohexane
+Pyridine
+Diethanolamine
+1-Octanol
+1,2,4-Trichlorobenzene
+Diphenylamine
+Butyl acetate
+Ethanolamine
+Ethyl acetate
+Phenol red
+C.I. Direct Red 28
+D-Glucose
+Ethylenediaminetetraacetic acid
+Lactic acid
+D-Mannitol
+Butanedioic acid
+L-Tartaric acid
+Tromethamine
+Lithium carbonate
+Acetyl chloride
+Ammonium acetate
+Ammonium sulfamate
+Carbon disulfide
+Copper
+Formic acid
+Mercury
+2-Methoxyethanol
+Phosphoric acid
+Potassium cyanide
+Sodium cyanide
+2,2,4-Trimethylpentane
+Acetic acid
+Acetic anhydride
+4-Aminobenzenesulfonic acid
+Eosin
+Formamide
+Hydroxylamine sulfate (2:1)
+Hydroxylamine hydrochloride
+Isopentyl alcohol
+Lead dioxide
+Lithium chloride
+N-Methyl-p-aminophenol sulfate
+Morpholine
+Ninhydrin
+Palladium(II) chloride
+Picric acid
+Potassium bromide
+Potassium dichromate
+Propionic acid
+Pyrogallol
+Sodium chlorate
+Sodium dodecyl sulfate
+Dibasic sodium phosphate
+Tannic acid
+Thiophene
+Water
+Salicylic acid
+Tetramethylsilane
+Benzoyl chloride
+1-Dodecanol
+2-Octanol
+Methanol, sodium salt
+Potassium acetate
+Sodium acetate
+Sodium formate
+Ligroine
+Tetramethylammonium hydroxide
+Imidazole
+Potassium thiocyanate
+Sodium carbonate
+Carbonic acid, barium salt (1:1)
+Potassium hydroxide
+Sodium hydroxide
+Lead monoxide
+Trilead bis(carbonate) dihydroxide
+Thiocyanic acid, ammonium salt
+Ammonium nitrate
+Silica
+Sulfuric acid
+Sodium metabisulfite
+Nitric acid
+Ammonium phosphate
+Potassium persulfate
+Diammonium peroxydisulfate
+Potassium nitrate
+Potassium sulfate
+Ammonium sulfate
+Diammonium hydrogen phosphate
+Hydrobromic acid
+Copper(II) sulfate, pentahydrate
+Lead(II) acetate trihydrate
+Potassium ferricyanide
+Potassium fluoride
+Silver nitrate
+Sodium arsenate heptahydrate
+Sodium dichromate dihydrate
+Sodium tungstate dihydrate
+Sodium hydrogen sulfate
+Sulfamic acid
+Sodium perchlorate
+Borax (B4Na2O7.10H2O)
+Calcium hydroxide
+Cupric oxide
+Iodine
+Potassium iodide
+Potassium permanganate
+Sodium bisulfite
+Sodium bromide
+Zinc
+Zinc chloride
+Zinc oxide
+Lead nitrate
+Bromine
+Copper(I) chloride
+Dipotassium hydrogenorthophosphate
+Monobasic potassium phosphate
+Ammonium bromide
+Calcium carbonate
+Potassium carbonate
+Sodium oxalate
+Isatin
+Acetaldehyde
+Benzene
+Chromium trioxide
+Zinc sulfate heptahydrate
+Cadmium(II) chloride hydrate (2:5)
+Aluminum
+Iron(II) sulfate heptahydrate
+Magnesium sufate heptahydrate
+2,2'-Bipyridine
+Chloramine-T trihydrate
+Sodium iodide
+Sodium nitroprusside dihydrate
+Nickel(II) chloride hexahydrate
+Ammonium benzoate
+Bromophenol blue
+Mercury(II) acetate
+Mercuric iodide
+Mercuric oxide
+Methyl red
+Monopotassium phthalate
+Osmium tetroxide
+Potassium bitartrate
+Potassium nitrite
+Silicic acid
+Sulfurous acid
+Titanium tetrachloride
+Iron
+Tripotassium phosphate
+Antimony trichloride
+Calcium dichloride dihydrate
+Sodium thiosulfate, pentahydrate
+Sodium sulfite
+4-Methylbenzenesulfonic acid hydrate
+Hydrogen iodide
+Mercury chloride (Hg2Cl2)
+Dimethylglyoxime
+Tetrabutylammonium bromide
+C.I. Acid Green 1
+Bromcresol green
+Tetrabromophenolphthalein ethyl ester
+Bromocresol green sodium salt
+Potassium perchlorate
+Perchloric acid
+Potassium chlorate
+Ammonium carbonate
+Magnesium dinitrate hexahydrate
+Calcium sulfate dihydrate
+Ammonium aluminum sulfate dodecahydrate
+Phosphorus pentoxide
+Ampyrone
+Barium nitrate
+Zirconyl chloride octahydrate
+Anthrone
+Trisodium citrate dihydrate
+Cupric chloride dihydrate
+Disodium ethylenediaminetetraacetate dihydrate
+Hydrogen fluoride
+Magnesium oxide
+Potassium carbonate sesquihydrate
+Sodium
+Stannous chloride dihydrate
+Tin
+Trisodium phosphate dodecahydrate
+Ammonium fluoride
+Lithium hydroxide hydrate
+D-Lactose monohydrate
+Copper(II) nitrate trihydrate
+Lanthanum chloride
+Sodium molybdate(VI) dihydrate
+3,3-Bis(4-hydroxy-5-isopropyl-o-tolyl)phthalide
+Ammonium metavanadate
+Potassium iodate
+Diazenecarbothioic acid
+Bromothymol blue
+2-Naphthalenol
+Bromcresol Purple
+1-Naphthalenesulfonic acid
+Carbonic dihydrazide
+Borate(1-)
+1,10-Phenanthroline
+1,3-Benzenediol
+Sodium peroxide
+Mordant Black
+monosodium salt
+1-Butanaminium
+Glycine
+3-Hydroxy-4-(6-hydroxy-m-tolylazo)naphthalene-1-sulphonic acid
+1,4-Benzenediamine
+1,10-Phenanthroline
+Benzenesulfonic acid
+Benzenesulfonic acid
+Lead(II) chromate
+Iodic acid  (HIO3)
+Mercuric sulfate
+Bismuthine, trichloro-
+Potassium chromate(VI)
+Mercury bromide (HgBr2)
+Iodine chloride (ICl)
+Fuming sulfuric acid
+Strontium nitrate
+Bismuth sodium oxide (BiNaO3)
+Potassium hydrogen diiodate
+Thorium nitrate
+2,7-Naphthalenedisulfonic acid
+Sodium alpha-(3-bromo-5-isopropyl-4-oxo-2-methyl-2
+Bromophenol blue sodium salt
+Cobalt nitrate hexahydrate
+Benzoic acid, 2-hydroxy-5-sulfo-, dihydrate
+Acetic acid, sodium salt, trihydrate
+Monosodium phosphate monohydrate
+Calcium acetate monohydrate
+1,2,3-Propanetricarboxylic acid
+Oxalic acid dihydrate
+1,10-Phenanthroline, monohydrate
+Strontium chloride hexahydrate
+Bismuth nitrate pentahydrate
+Lithium sulfate monohydrate
+Barium hydroxide octahydrate
+Sodium pyrophosphate decahydrate
+Nickel nitrate hexahydrate
+Magnesium diacetate tetrahydrate
+Copper II nitrate hemipentahydrate
+Silver sulfate
+Potassium phosphate, tribasic, heptahydrate
+Sodium carbonate monohydrate
+Cupric acetate monohydrate
+Cobalt(II) acetate tetrahydrate
+Disodium sulfate decahydrate
+Mercuric nitrate monohydrate
+Ferric ammonium sulfate
+Potassium chromium alum dodecahydrate
+Antimony potassium tartrate anhydrous
+Chloroplatinic acid
+Sodium sulfide nonahydrate
+Ammonium molybdate tetrahydrate
+Manganese(II) chloride tetrahydrate
+Sodium monohydrogen phosphate heptahydrate (2:1:7)
+Lithium perchlorate
+Ammonium dichromate
+Periodic acid
+Methanaminium, N,N,N-trimethyl-, bromide (1:1)
+Benzenesulfonic acid
+3-Amino-7-dimethylamino-2-methylphenazine hydrochloride
+Carbonic acid
+Benzoic acid
+Murexide
+Methylthymol blue
+Xylenol orange, tetrasodium salt
+Potassium pyrosulfate
+Magnesium perchlorate
+Perchloric acid, lead(2+) salt (2:1)
+Cadmium nitrate tetrahydrate
+Aluminum sesquisulfate octadecahydrate
+Lithium tetraborate (Li2B4O7)
+Ammonium sulfide ((NH4)2S)
+Sodium [(ethylenedinitrilo)tetraacetato]magnesate
+Ammonium ceric nitrate
+Boron sodium hydride (BNaH4)
+Metaphosphoric acid (HPO3)
+Ammonium iodide
+Sodium periodate
+Potassium periodate
+Molybdic(VI) acid (H2MoO4)
+Ferric chloride hexahydrate
+Lithium metaborate
+Reinecke salt
+Sodium cobaltinitrite
+Ammonium ferrous sulfate hexahydrate
+Sodium bromophenol Blue
+Ammonium cerium(IV) sulfate
+Iron(2+) potassium cyanide--water (1/4/6/3)
+Silver(1+) diethylcarbamodithioate
+Gold(3+) chloride--hydrogen chloride--water (1/3/1/3)
+Sulfuric acid--2
+3,6-Disulfonaphthalene-1,8-bis(olate)
+Oxalic acid--ammonia--water (1/2/1)
+Sodium 2,3-dihydroxybutanedioate--water (2/1/2)
+Potassium sodium 2
+Potassium ethanedioate--water (2/1/1)
+Cobalt(2+) chloride--water (1/2/6)
+Amylodextrin
+# https://leicester.figshare.com/articles/dataset/Italian_Book_of_Secrets_Database_/10082456
+Southernwood
+Southernwood flowers
+Bitter wormwood
+Acacia
+Acacia pods
+Steel
+Steel flakes or chips
+Maple
+Copper acetate
+Vinegar
+White vinegar
+Distilled vinegar
+Vinegar dregs
+Strong vinegar
+Vinegar with rose-water
+Vinegar made from squill
+Distilled or filtered vinegar
+Sorrel
+Sorrel seeds
+Muriatic Acid
+Nitric Acid
+Sulphuric acid (dilute)
+Sulphuric acid (concentrated)
+Sweet sedge
+Myrtle sedge/or Sweet cane 
+Great Galingal
+Root of sweet sedge
+Myrtle sedge
+Water
+Aperetif waters
+Radish water
+Water of Saltpetre
+Tripoli Water
+Herbs water
+Water of wild thyme, or mother of thyme.
+Sulpher water
+The Queen's water
+Endive water
+Eye-bright water
+Water of unripened grapes
+Smallage water
+Orange water
+Bettony water
+Borage water
+Cinnamon water
+Common or field eryngo
+Veal water
+Celandine water
+Cerfolium-flower water
+Egg-white water
+Fennel water
+Lemon-flower water
+Borrage-flower water
+Seville orange-flower water
+Citron-flower water
+Bean-flower water
+Myrtle-flower water
+Elder-flower water
+Water from a fountain
+Strawberry water
+Fumitory water
+Jasmine water
+White lily flower water
+Patience water
+Lavender water
+Lentisk, or mastic tree water
+Lemon-water
+Lupin-water
+Marjoram water
+Dwarf-mallow water
+White or Marsh-mallow water
+Lemon-balm water
+Mint-water
+Honey-water
+Distilled honey water
+Myrtle water
+Orange-water
+Snow-water
+Walnut water
+Barley water
+Plantain water
+Prune/plum water
+Borageroot-water
+Water of Pine resin (Ragio di Pino)?
+Rose Water
+White rose water
+Damask-rose water
+Musk-rose water
+Winter-rose water
+Rosemary water
+Rue -water
+Sage-water
+Wood-march or sanicle water
+Scabious-water
+Corn-flower water
+Bindweed
+Spikenard water
+Water of Cow's lungwort
+Blood-root water
+Verbena-water
+Violet water
+Marrow-water
+Distilled water
+Sea buckthorn
+willow thorn
+Sallow thorn
+impure nitric acid, distilled over fierce fire.
+Residue left after making acqua forte
+Orange-flower water or rosewater.
+Sea-water
+Honey-water
+Myrtle water
+Salt water
+Distilled water
+Distilled peach and fern water
+Distilled water of holy-thistle
+Theriac water
+Alchoholic distillation of between 40% and 70%
+Agaric, Fungus Laricis
+Ashes of burned garlic
+Garlic
+Garlic skin
+Part of a Lamb
+Parchment
+Agnus Castus
+Flowers of Agnus Castus
+Seeds of Agnus Castus
+Citrus juice
+Agrimony, Liverwort.
+Agrimony root
+Alabaster
+Bitters?
+Holly hock
+Ladies' mantle
+Alchohol
+Laurel Berries
+Laurel leaves
+laurel Must
+Allum
+Burnt-allum
+Allum with the herb Cali, burned to ashes.
+The tartar formed in barrels and burnt
+As Allume di Feccia
+Allum
+Allum adulterated with Amianto
+Rock-allum
+Burnt-rock allum
+Liquid allum
+Scaly allum
+Sugar and egg white
+rosewater
+Hepatic Aloe
+Leaves of the Aloe plant
+Bark of the Aloe plant
+Sucotrine aloes
+Marsh mallow
+Andwerp hollyhock.
+Mallow-flour
+Mallow-root
+Mallow-seeds
+Almonds
+Bitter almonds
+Sweet almonds
+Almond milk
+Sweet Almond oil
+Almond nut
+White coxcomb
+Tumblewed
+Wild amaranth.
+Amber
+Ambergris
+Bishop-weed
+Starch
+Wheat starch
+Aniseed, Sweet cumin
+Scarlet pimpernel, or Sea purslane
+Duck
+Duck blood
+Cashew nut
+Dill
+Dill flowers
+Dill leaves
+Dill root
+Dill seeds
+Angelica
+Angelica root
+Eel
+Eel gall
+Aniseed, sweet cumin
+Aniseed oil
+Anniseed
+Antimony
+Bees
+Honey comb
+Green smallage
+Wild parsley
+Smallage seeds
+Smallage seeds
+Brain of an Eagle
+Mulberry tree
+Silver
+The finest test-silver
+High-grade silver
+Silver filings
+Silver leaf
+Sublimate of silver
+Silver litharge
+Sublimate of silver
+Mercury or quicksilver
+Red aristoloch
+Aristolochia
+Serpentary root
+Heart -wort or birth wort
+Long birthwort
+Root of  long aristoloch
+Earth apple
+Earth-apple roots
+Coxcomb/ woolflower.
+Gum from the giant fennel tree.
+Wake robin
+Arsenic
+Rats-bane
+Yellow arsenic-arsenic mixed with sulpher
+Wormwood
+Wormwood seeds
+Tame-poison
+Donkey fat
+Donkey bone marrow
+Asses hoof
+Asparagus
+Asparagus seed
+Deaf Asp or adder
+Adders/asps
+Assa-foetida plant
+Asarabacca
+Folefoot or hazel wort
+Wormwood, Absinth.
+Extract of wormwood
+Wormwood leaves
+Another name for wormwood
+Wormwood Juice of
+Animal fat
+Duck fat
+Chicken fat
+Goose fat
+Bear fat
+Pork lard/grease
+Fox fat
+Vulture fat
+Old lard/grease
+a Hedgehog
+Castor oil plant
+Hazelnut shells
+Oat flour
+Ivory
+Vulture
+Asarabacca 
+Wild nard
+Hazelwort.
+Wild pomegranate
+Sweet Balm or Balsam -tree.
+Rosemary Balsam
+Fruits of the above
+Black balsam
+Kind of balsam
+Cotton
+Cotton seeds
+Basil
+Basil seeds
+Bdellium tree
+Horn from a male animal
+A crane's bill
+Gall of a male animal
+Fat of a male animal
+Breast (or grease of?) of a male animal
+Testicles of a male animal
+Globe thistle root
+Root of Deadly nightshade
+Bengewine
+White bengewine
+Powder of bengewine
+Red bengewine
+Bengewine seeds
+Berberry, Barberry, Pipperidge
+Essence of Bergamot
+Wound-wort
+Betony conserve
+Betony flowers
+Betony leaves
+A green stone
+A morbid substance produced in land animals.
+White lead oxide
+Egyptian white lead
+Burnt white lead
+Venetian white lead
+Hawthorn?
+Chard or beets
+Black Chard/beet
+Chard/beet  roots
+Chard/beet juice
+Tame-poison/ wild-cotton/Madar (Bedevian)
+Snakegrass
+Any kind of tortoise
+Snakeweed, bistort, adderword
+Root of Snakeweed, bistort, adderword
+A kind of gluey earth found near Babylon.
+Red clay from Alessandria
+Red clay from Alessandria
+Cotton
+Borax
+White borax
+Borax paste
+Common Borage, Tale-wort
+Borage flowers
+A foul Great Toad
+Bear's breech/or wort/or foot
+Brasil-wood
+Sea-colewort
+A fruit used for making sweetmeats
+Bryony
+Bryony water
+Root of white bryony
+Bryony leaves
+Root of black bryony
+Broth
+White bean soup
+Red-chick pea broth
+Chicken broth
+Damsons
+Butcher's broom/ knee holly
+Butcher's broom, box holly
+Roots of butcher's broom
+Bull meat
+Bull's horn
+Bull's gall
+Bull's leg
+Bull's bone marrow
+Bull's blood
+Bull's dung
+Buffalo bone marrow
+Common Borage, Tale-wort/ Rose- campion
+Borage flowers
+Borage roots
+Borage seeds
+Borage syrup
+Slugs
+Shepherd's pouch
+Butter
+A kind of cocoa
+Coffee
+A kind of hornet
+Cat-mint
+Mountain calamint
+Sweet-flag, Sweet sedge, Myrtle sedge.
+Egyptian sedge
+Flower of copper/Calcitis/ Vitriol
+Lime
+Quick-lime
+Lime (Slaked lime)
+Quick-lime
+White quick-lime
+Calcite
+Pot marigonld
+Jumbles, sugar paste
+Soot
+Chimney soot
+Hardened soot
+Germander
+Ground pine
+Chamomile
+Chamomile flowers
+Canterbury bells
+Camphor
+Dog
+A White dog
+A red-haired dog
+Dog's liver
+Dog's urine
+Dog hair
+Powdered dog's head
+Hemp leaves
+Hemp seeds
+Cane or reeds
+Cane roots
+Rattan cane
+Cinnamon
+Essence of cinnamon
+Cinnamon sticks
+Cinnamon scented with cloves
+Hardened cinnamon
+Grass-hopper
+Maiden's hair/Our lady's hair
+Maiden's hair syrup
+Green maiden's hair
+Water for soaping oneself
+A Capon
+Capers
+Capers from the east
+Caper roots
+Goat's horn
+Goat's gall
+Goat's nails
+Goat's urine
+Goat's lung
+Goat's grease/fat
+Goat's milk whey
+Goat's dung
+Goat's bladder
+Goat or kid
+Goat-Kid  Rennet
+Goat-kid gall
+Goat-kid fat
+Goat-kid lung
+Goat-kid blood
+Wild fig-tree
+Wild fig-tree wood/bark
+Carob
+Charcoal/coal
+Cardamon
+Cardamon seeds
+Thistle
+Blessed Thistle
+Wild Thistle
+Carline thistle
+Carline thistle roots
+Fresh meat
+Bloody meat
+Fruit of a balsam tree
+Parchment
+Seeds of woolly safflower
+Distaff thistle
+Caraway
+Caraway seeds
+Cassia, Senna
+Cassia Fistula /Pudding pipe
+Pudding Pipe
+Cassia Lignea
+Bark of the Cinnamomum Cassia tree
+Cassia pulp
+Cassia peel/skin
+Chestnuts in their cases
+A herb which makes one's nose bleed
+Castor oil
+Flesh of a castrated male sheep
+Hide of a castrated male sheep
+Foot of a castrated male sheep
+Mutton breast
+Mutton grease
+Head of Mutton
+Castrated male sheep
+Mutton hide
+Mutton foot
+Breast ( grease?) of Castrated male sheep
+Head of Castrated male sheep
+Caper-spurge
+myrthle spurge
+wild caper
+False horse-tail
+horse-pipe
+bottle brush
+Horse tail
+Horse's tooth
+Horse's testicles
+Cabbage
+Black cabbage
+Cabbage seed
+Chickpea
+Chickpea flour
+Red kidney beans?
+Seville oranges
+Citron, Adam's Apple
+Candied citron
+Citron essence
+Citron flowers
+Citron leaves
+Seived Juice of citron
+Citron peel
+Citron seeds
+Citron peel syrup
+Celandine, Swallow wort
+Celandine root
+Rags
+Ashes
+Wood ashes
+Soda ashes
+Centaury
+Great centaury
+Earth-gall, fever-wort
+Wax
+White Wax
+Yellow wax
+Common wax
+Yellow Bee's wax
+Naval wax?
+Black wax
+Wax, (new)
+Wax, (red)
+Wax, Green.
+White lead pigment. OR lead carbonate.
+Chervil
+Poplar tree
+White lead pigment. OR lead carbonate.
+Deer horn
+Deer heart
+Stag Testicles
+Deer fat
+Deer bone-marrow
+Deer grease
+Root of the greater celandine
+Crimson from an old world cochineal insect
+Insects which are crushed and used in dyes
+Jesuit's Bark
+Quinine
+Snails
+A nail
+A copper nail
+Horse's mane
+Chocolate
+Sow thistle
+Milk Thistle
+Cyclamen
+Cyclamen roots
+Swan
+Cicory
+Hemlock
+Hemlock leaves
+Decotion of Hemlock
+Extract of Hemlock
+Morello cherries
+The pip of the morello cherries
+Black cherries
+Wild cherries
+Sicilian Cherries
+A variety of small cherry
+Cumin
+Cumin flowers
+Cumin Powder
+Cumin seed
+Cinnabar
+Artificial cinnabar
+Wild-boar hoof
+Wild-boar tooth
+Wild boar gall
+Hound's tongue
+Cinquefoil
+Root of cinquefoil
+Cocoa pod
+Cypress
+Galangale
+Cypress roots
+Round Cypress, native of east indies
+Onion
+White onion
+White onion seeds
+Red onion
+Onion juice
+Round onion roots
+Onions of White lily
+Cypress Tree
+Fruits of the cypress tree
+Wood of the cypress tree
+Cypress resin
+Face powder
+Henna
+Lemons
+Venetian white lead
+Wild basil, horse -thyme
+Amonium cloride
+Mercury cloride
+Cocchineal
+Scurvey grass
+Root of wild watermelon
+Squirting cucumber
+Flesh of wild watermelon
+Water melon seeds
+Glue
+Fish-glue
+Scamony
+White dove
+Blood of a white dove
+Goat's lungs
+Dove
+Colocynth, Bitter Apple or Gourd
+Root of colocynth
+Cumin
+Comfrey
+Common comfrey
+Root of common comfrey
+Daisy
+Comfrey root
+Counter poison
+Corals
+White Coral
+Red Coral
+Corals
+Coriander
+Crow's eggs
+Cornelian cherry
+Raven
+Quince
+Qunice seeds
+Cremor Tartar
+Cress
+Clay
+Crystal
+Crocus
+Crocus Martis
+Crocodile
+Bran
+Black pepper
+Tumeric
+Goldenseed root
+Dodder
+Dodder seeds
+Dates
+Date stones
+Date flesh
+A carrot
+A horse tooth
+An ointment made of marsh-mallow
+A confection of gum
+A cordial of ambergris and musk
+Mulberry Syrup
+White unguent for cooling a heat
+Conserve of prunes
+Dittany
+White dittany, Candle plant.
+Root of White dittany, Candle plant
+Cretan dittany
+Leaves of cretan dittany
+Leaves of dittany
+A form of Potassium
+Leopard's bane
+White milk vetch
+Milk vetch
+Tarragon
+Tarragon root
+Danewort
+Ivy
+Ivy flowers
+Gum of ivy
+Ivy bark
+Ivy root
+Ivy seeds
+Elephant tooth
+Sneeze weed
+Electuary
+Hellebore
+Root of white hellebore
+Black hellebore
+Roots of black hellebore
+Hellebore
+Haematite
+Myrobalsam
+Endive
+Endive Water
+Endive root
+Wild endive
+Seeds of wild endive
+Endive seeds
+Endive syrup
+Sneeze-wort
+Sneeze-wort root
+Elecampane
+Common liver-wort
+Epithyme
+Tansy
+Camendrio
+Lavender cotton
+Mugwort
+Astmary
+Orpine
+Liverwort
+Colt's foot
+Ass's foot
+Cough-wort
+Sun-flower
+Purslane
+Soapwort, hedge pink
+Cow's lungwort
+Hermodactyl
+Rucola
+Iron Oxide
+Milk-wort
+Devil's Milk
+Eye-bright
+Agrimony family
+Kidney beans
+Kidney bean flour
+Mud
+Colt's foot/cough-wort
+Colt's foot/cough-wort root
+Flour
+Starch-flower
+Wheat flour
+Broad Beans
+Broad bean flour
+Broad bean flowers
+Broad bean leaves
+Broad bean pods
+Nostoch
+Sea-calf liver
+Fern/Bracken
+Bracken root
+Gall
+Iron
+Rusty iron
+Iron filings
+Fennel
+Fig leaves
+Figs
+Fig milk
+Fig bark
+Figs, (Dry)
+Figs, (Green)
+White gall
+Fenugreek
+Fenugreek flour
+Mucillage of Fenugreek
+Fenugreek seeds
+Privet berries
+Thread from men's clothes
+Soot, ashes
+Red saxifrage
+Roots of red saxifrage
+Fennel
+Fennel flowers
+Fennel leaves
+Sea-fennel, samphire
+Fennel roots
+Wild fennel
+Fennel seeds
+Bloom of copper
+Bloom of Verdegris
+Bloom of glass
+Flowers
+Apple flowers
+Bread
+Cheese
+Cow's milk cheese
+Ants
+Ant eggs
+Furnace
+Strawberry
+Strawberry water
+White dittany, Candle plant
+Frasenella
+Ash flowers
+Ash leaves
+Ash wood
+Ash liquor
+Ash seeds
+Wheat
+Wheat flour
+Wheat bran
+Soot
+Soot
+Fumitory
+Syrup of fumitory
+Fumitory tips
+Common Bladder
+Galangale/Cat's tail
+Galbano plant
+Oak galls
+Our ladies' bed-straw
+Chicken
+Chicken liver
+Chicken gall
+Chicken feathers
+Chicken blood
+Cockerel
+Cockerel gall
+Cockerel blood
+Cockerel dung
+Prawn shells
+Pig's Eye-teeth
+Avens
+Cloves
+Essence of clove
+Clove-Leaves
+Cat
+White jasmine
+Jasmine flowers
+Ginger
+Wild or broad-leaved ginger
+Gentian
+Extract of gentian
+Milkweed gentian
+Geranium
+Chalk
+Acorns
+Acorn cups
+Acorn shells
+Acorns or oak-apples
+Dormouse
+Hyacinth/Jacinth
+White lily
+White lily bulb
+Part of the white lily
+White lily leaf
+White lily root
+White lily stamen
+Blue lily
+Lily leaf
+Lily root
+Lily seed
+Juniper
+Juniper berries
+Juniper needles
+Gum/resin  of a Juniper tree
+Juniper berries
+Juniper root
+Spanish Broom
+Roots of spanish broom
+Broom seeds
+Sea broom
+Sun-flower roots
+Sun-flower seeds
+Jujube tree
+Syrup of the Jujube
+A julep with rose
+Julep with violet
+Gladioli
+Gladioli root
+Gum
+Arabic gum
+A gum made from copal
+Gum of the giant-fennel
+Resin from a cherry tree
+Gum made from Goat's beard/thorn/Gum-tragacanth
+Mucillage of Goat's beard
+Resin from an ivy plant
+Resin from a pear tree
+Resin from a peach tree
+Resin from a plum tree
+Sycamore gum/resin
+Gum from Guiacum
+Shellac
+Stitchwort
+Stitchwort root
+Wheat flour
+Great Cardomom
+Insects which turn into crysalids, crushed
+Crab's eyes
+Fresh-water crab's shell
+Crabs
+Crab shells
+Animal fat
+Swan fat
+Peacock grease/fat
+Crane fat
+Duck Fat
+Donkey fat
+Duck or Capon fat
+Goat fat
+Fat from a catrated sheep
+Horse fat
+Deer grease
+Chicken fat
+Male cat fat
+Lion fat
+Goose Fat
+Bear Fat
+Pork fat
+Badger fat
+Human fat
+Veal fat
+Dregs/lees
+White wine dregs
+A good wine, like Malmesie
+Oil or gum distilled from syrian olive trees
+Heliotrope, Turnsole
+Ivy
+Ivy seeds/pods
+Vervein
+Hyena pelt
+Hippopotamus
+Hyacinth/ Jacinth
+Ladies' gloves
+Frankincense, olibanum tree
+White incense
+Incense from the mastick tree
+A form of Incense
+Incense
+Olibanum incense
+Bark of the frankincense tree
+Ink
+Ink dregs
+Ipecacuanha
+St. John's wort
+Hypocist
+Juice of hypocist
+Iris
+Powder of iris
+Iris root
+Hyssop
+Jujube tree
+White henbane
+White henbane leaves
+White henbane roots
+White henbane seeds
+Lacquer or Shellac
+Wool
+Patience
+Patience leaves
+Patience seeds
+Patience roots
+Lapis Lazuli
+Burdock
+Burdock seeds
+Pork Fat/Grease
+Old fat
+Milk
+Donkey mare's milk
+Dog' milk
+Goat's milk
+Mare's milk
+Breast milk
+Cow's Milk
+Decotion made of allum, litharge, vinegar
+Lettuce
+Lettuce seeds
+Ladanam
+Ladanam in liquid
+Bay berries
+Laurel leaves
+Laurel roots
+Laurel seeds
+Lavender
+Balsam tree wood
+Bark of the guaiacum gum tree,
+Pink wood, or rose wood?
+Lentil
+Duck-weed, water lentil
+Lentil flour
+Lentils
+Lentils
+Lentisk
+Lentisk flowers
+Hare
+Hare's rennet
+Hare flesh
+Gall of a hare
+Hare fat
+Genitals of female hare
+A hare's pelt
+Hare's blood
+Hare's testicles
+Hare's ventricles
+Mixture used for washing hair
+Clear lessia
+Lessia made of vine
+Sweet lessia
+Manure
+Lovage
+Lovage seeds
+A yeast
+A yeast
+Box-thorn
+A yeast
+Privet
+Privet leaves
+Lily of the valley
+A lily
+White lily
+Lily-root
+Steel filings
+Ivory filings
+Iron filings
+Gold filings
+Copper filings
+A young lemon
+Lemon rind
+Lemons or limes
+Lemon juice
+Toad-flax, or wild-flax
+Toad-flax roots
+Mucillage of flax seeds
+Flax seeds
+Liquorice
+Liquorice root
+Litharge
+Silver litharge
+Litharge
+Lye
+Earth worms
+Worms
+Glow-worms
+Lizard
+Lizard blood
+Green lizards
+Snails
+Snail shell
+Snail head
+Slug
+Lupin (Could be either wild or Egyptian)
+Bitter lupins
+Lupin flour
+Wolf gall
+Wolf's lungs
+Common hop
+Hop flowers
+Hop seeds
+Hop syrup
+Hop juice
+Pike teeth
+Mace
+Marjoram
+Maiolica
+Dwarf Mallow, round Dock
+Dwarf Mallow flowers
+Dwarf Mallow roots
+Dwarf mallow seeds
+Wild dwarf mallow leaves
+Malmesey  wine
+Marsh-mallow leaves
+Marsh-mallow, white mallow flowers
+Marsh-mallow, white mallow root
+Marsh-mallow, white mallow seeds
+Member of the Pea family
+Mandrake
+Mandrake apples
+Mandrake root
+Manganese
+Camel thorn, Hebrew Manna plant  or Lentisck
+Sour cherries
+See unguento marciaton
+Daisy/Margarite
+Marble
+Common white Hore-hound
+White hoar-hound syrup
+Pharmaceutical preparation
+Gum from the mastic tree, or lentisk
+Resin/gum from the mastic tree
+Mother of pearl
+Fever-few chrysanthemum/mother-wort
+Fever-few chrysanthemum/mother-wort seeds
+Clary-sage
+Clary-sage
+Clary-sage roots
+Clasy-sage seeds
+Bricks
+Bone marrow from the flanks of an asses back legs
+Bone marrow from a pig's flanks
+Honey into which dry roses have been mixed
+Seville orange
+Seville orange flowers
+Seville orange peel
+Rose-apple
+Honey
+Crab-apples
+Aubergines
+Blue melilot, King's clover
+King's clover flowers
+King's clover seeds
+Lemon- balm
+Lemon-balm leaves
+Apple
+Pomegranate
+Pomegranate skin
+Whole melon
+Melon flesh
+Melon seeds
+Mint
+Water mint
+Mint essence
+Mint leaves
+White horehound
+French mercury seeds
+French mercury
+Mercury
+A Preparation using mercury
+miva citoniorum
+Pork blood
+Honey
+White honey
+Burnt honey
+Clarified honey
+Honey comb
+Honey flavoured with roses
+Skimmed honey
+Virgin honey
+Honey with violet
+Millet
+Water milfoil
+Millipede
+Soup
+Minium / Red Lead
+Belleric myrobalan
+Belleric Myrobalan / Belleric
+Black or Chebulic myrobalan
+Hara nut tree/ Citron myrobalan
+Nuts or bark of Citron myrobalan
+Myrrh
+Myrrh liquor
+Tincture of myrrh
+Myrtle
+Myrtle flowers
+Myrtle berries
+Myrtle Fruit and flowers
+electuary
+Powder from a mill stone
+Blackberries
+Blackberry leaves
+Mulberries
+Myrtle
+Myrtle leaves
+Myrtle berries
+Myrtle seeds
+Myrtle flowers
+A kind of Sweetmeet
+Flies
+Flies' heads
+Must
+Probably Nettles
+Mucillage
+Bitume or pece
+Amonia chloride
+Potassium Chloride
+Musk
+Green tree moss growing on the oak
+Moss
+Nackre
+Orange
+Orange blossom water
+Bitter oragne
+Candied Orange
+Orange flowers
+Orange Leaves
+Seville orange peel?
+Orange oil
+Orange root
+Orange peel
+Orange Peel
+Oranges (juice of)
+Seville orange
+Narcissus
+Narcissus roots
+Spikenard
+Nasturtium
+Nasturtium seeds
+Sweed
+White water lily
+White water lily flower
+Pitcher plant
+Blood of a kind of lizard?
+Medlar tree
+Medlar pips/stones
+Snow
+A cockle/whelk/winkle
+Tobacco
+Nido di rondine
+Love in a mist
+Nigella seeds (love in a mist)
+Water lily root
+Nitre, Saltpetre, Potassium nitrate
+Hazlenuts
+Indian nuts
+Hazlenut flowers
+Hazlenut shells
+Walnuts
+Walnut flowers
+Walnut leaves
+Nutmeg
+Nutmeg flowers
+Walnut shells
+The burnt shell of a nut
+Coconut
+Goose
+Goose brain
+Goose Tongue
+Goose lungs
+Goose blood
+Goose testicles
+Pine nuts
+Herbs
+Frankincense, Olibanum tree
+White frankincense
+Old oil
+Holy oil
+Bad oil
+Olive Oil
+Fir-tree oil
+Dill oil
+Lizard/eft oil
+Clover oil
+Oil of the Xilobalsam tree
+Oil of bitter almonds
+Oil of sweet almonds
+Oil of amber
+Eel oil
+Orange oil
+Wormwood oil
+Garden balsam oil
+Sweet-balsam oil
+Bengewine oil
+Common box oil
+Oil of Chamomile
+Oil of Red-dog
+Oil of Camphor
+Oil of Cinnamon
+Caper oil
+Balsam fruit oil
+Oil from a gland in the beaver
+Wax oil
+Yellow wax oil
+Arabian costus, Kust-root
+Goat's spine or milk-vetch oil
+Ivy oil
+Milk wort oil
+Orange flower oil
+Lime flower oil
+Oil of Jasmine flower
+Wheat oil
+Oil of Clove
+Jasmine oil
+Oil of white lilies
+Juniper oil
+Oil of Ivy-gum
+Oil of Incence
+Oil of Hypericon
+Iris oil
+Hyssop oil
+Oil of Aloe
+Lentisk oil
+Linen seed oil
+Lantern oil
+Marjoram oil
+Oil of Mastick
+Seville orange oil
+Oil of Myrrh
+Myrtle oil
+Oil of Apple of Jerusalem, Balsam apple
+Myrtle oil
+Water-lily
+Walnut oil
+Coconut oil
+Oil of Nut-meg
+Oil, (Olive )
+Olive oil dregs
+Fish-bone oil
+Poppy oil
+St. John's wort oil
+Citron oil
+Leek oil
+Radish oil
+Rose oil
+Damask rose oil
+Rosemary oil
+Oil of egg-yolk
+Oil of Rue
+Oil of Scorpion
+Cotton-seed oil
+Flax-seed oil
+Sesame seed oil
+Sulpher oil
+Brimstone
+Oil, ( Lavender )
+Olio di storace calamita
+Oil of  storax
+Oil of tartar
+Oil of white wine tartar
+Oil of tupentine
+Oil of vitriol
+Oil of vitriol
+Oil of yellow violets
+Oil of the zilo balsam tree
+Iris oil
+Oil of Laurel
+A black oil
+Oil of mastic
+Myrtle oil
+Oil of spikenard
+Perfect oil
+Rose oil
+Oil of Horn-beam
+Old oil
+Oil of violets
+Olive
+Olive leaves
+Olives
+Olive flowers
+Olive leaves
+Olive wood
+Olive stones
+Olive skins
+Sea buckthorn
+Willow thorn
+Elm
+Elm bark
+Elm leaves
+Elm juice
+Elm seed pods
+Whet stone
+Opoponax
+Opium
+Opium juice
+Navelwort, Kidney-wort
+Barley
+Orignano
+Urine
+Bull's urine
+The urine of a 12 year old boy
+Urine of healthy young child
+Gold
+Gold leaf
+A pulse corn
+Auripigmentum, or Arsenick
+Maiden lip, Stick-tight
+Bear fat
+Nettle
+Nettle leaf
+Nettle root
+Nettle seeds
+Barley
+Barley starch
+Short-grained barley
+Barley flour
+Washed barley
+Barley bran
+Hollow leg bones
+Honey boiled with  Squil vinegar
+Honeyed vinegar
+Bone
+A bone from a deer's heart
+Oyster flesh
+Oyster shells
+Straw
+Palm/date-palm  flowers
+Dung of wild dove
+Wheat bread
+Cyclamen
+Cyclamen leaves
+Cyclamen root
+Bread
+Burnt bread
+Millet bread
+Millet
+Cream
+Poppy
+White poppy
+White poppy seeds
+Poppy flower
+Poppy leaves
+Pap-kind of bready soup
+Pellitory of the wall
+Lich-wort
+Sparrows
+Wheat paste
+Parsnip
+Parsnip root
+Parsnip seeds
+Hog's fennel, Sulphur weed
+Hog's fennel, Sulphur weed roots
+Peacock bones
+Peakcock dung
+A green and roan stone
+Hard pitch
+Pitch
+Liquid tar
+Oil of liquid tar
+Naval pitch
+Black pitch
+Sheep's lungs
+Sheep's gall
+Sheep's kidney
+Sheep's fat/grease
+Pitch or tar
+Spanish tar
+Naval tar
+Hide
+Idrodolomiti
+Cinque foil, five-finger grass
+Peony
+Peony Root
+Peony seeds
+Pepper
+White pepper
+Spanish pepper
+Strong pepper
+Pepper corns
+Pimento 
+Red Pepper
+Guinea Pepper
+Capiscum
+Pears
+Quince pears
+Muscadine-pears
+Wild pear
+Branches of wild pear
+St. John's Wort
+St. John's Wort seeds
+Pearls
+Pearls
+Partridge
+Partridge gall
+Peach
+Peach tree leaves
+Quince stones
+Peach stones
+Fish glue
+Coggin
+Sea-hog- fish, swine-fish
+Cuttle fish
+Tuna fish
+Tuna fish blood
+Parsnip roots
+Parsnip seeds
+Parsley seeds
+Parsley
+Parsley from Alexandria?
+Parsley roots
+Parsley (juice)
+Plantain
+Plantain water
+Plantain leaves
+Plantain roots
+Plantain seeds
+Pigeon
+Pigeon water
+Pigeon blood
+A stone from Armenia
+Borax
+A magnet
+An eagle stone
+Hematite
+Millstone
+Porphory
+Hematite
+A medicinal stone
+Pumice stone
+Blood-stone
+Any natural hard stone, like flint
+Pine nuts
+Pine nut shells
+St. John's wort
+St. John's wort flowers
+Alexander's foot
+Golden pills
+Red pepper, Capsicum
+Pimpernel, Burnet sexifrage
+Pimpernel root
+Pine
+Pine
+Pine resin
+Pine bark
+Pine kernels
+
+Burnt lead
+Burned lead
+Lead filings
+Form of lead
+Swallow-brain
+Pigeon
+Chrysanthemum
+Chrysanthemum root
+Peas
+Pea soup
+Pistacchio
+Common flea-bane
+Octopus
+Common polypody or golden locks
+Roots of oaken-fern
+Bristle-fern
+common spleenwort
+A powder
+Glass-dust
+Fine dust
+A pomade
+Apples
+"Pome ditte rose"
+Apple juice
+Quince apples
+Quince apple seeds
+Mucillage of quinces
+Pomegranate flowers
+Pomegranate leaves
+Pomegranate fruit
+Pomegranate shell
+Pomegranate wine
+Wild apples
+Pumice stone
+Purslane
+Purslane seeds
+Same as above?
+Sturgeon (fish)
+Woodlice
+Pork meat
+Pork gall
+Pork bone marrow
+Pig's trotters
+Pork lung
+Pork kidney
+Testicles of pork
+Pork Bladder
+Leeks
+Leek roots
+Leek seeds
+A drink made of pressed grapes
+Potassium hydrate
+Septfoil
+Tormentil
+Great hedge nettle
+Precipitate
+Pot marigold
+Propolis
+Sloe tree
+Plum tree
+Damsons
+Plum peel
+Flea-wort and flea-bane
+Common flea-bane mucillage
+Seeds of flea-bane
+Sneeze-wort
+Pennyroyal, pudding grass
+Pennyroyal, pudding grass flowers
+Tiles
+A Quali
+Rennet of Hare
+Oak leaves
+Acorns (Oak)
+Oak wood
+Oak-fern
+Radishes
+Radish
+Horseradish
+Horseradish root
+Horseradish peel
+Horseradish seeds
+Resin or gum
+Lercio
+Dirt from spiders
+A lizard, eft,  or newt
+Burnt copper
+Copper shavings
+Rosemary
+Rosemary flowers
+Frog-fish
+Frog
+Persian buttercup
+Turnip weed or Bastard Cabbage
+Garden rhubarb
+Horseradish seeds
+Radish
+Liquorice root
+Rhubarb
+Rhubarb syrup
+Rapontic/pontic rhubarb 
+Leaves of Red currants
+Sea urchin
+Hedge-hog
+Realgar 
+Red Realgar
+Rice
+Rice-water
+Rice-flour
+Dock
+Patience, spinach-dock
+Swallows
+Swallows eggs
+White rose
+Rose buds
+Damask rose
+Damask rose leaves
+A Spode Rose
+Rose (petals)
+Rose leaves
+Rose roots
+Rose stamens
+Rose juice
+Red roses
+Juice of red roses
+Distilled rosewater
+Rose
+A song bird
+Rosemary
+Rosemary essence
+Rosemary flowers
+Rosemary leaves
+Rosemary wood
+Rosemary roots
+Toads
+Red dye
+Pig's snout
+Oak ash
+Privet
+Privet bark
+Madder
+Madder root
+Madder
+Rocket seeds
+Dew
+Rum
+Rue, Herb of Grace
+Rue water
+Rue flowers
+Rue leaves
+Common rue
+Rue seeds
+Sabine, or Savin
+Sal-amoniac (Amonium chloride)
+Salt
+Rock salt
+Halite
+Purged Salt
+Glass salt: Alkali salts 
+Salamander blood
+Salted water, brine, for pickling
+Salt (edible)
+White calcinated tartar
+Halite (sodium cloride crystals)
+Willow wood ash?
+Willow leaves
+Willow wood
+Saliva
+Potassium nitrate/Saltpetre (rock salt)
+Burnt Potassium nitrate
+Saxifrage
+Sage
+Sage flowers
+Sage leaves
+Wild mountain sage flowers
+Wild mountain sage leaves
+Sage flowers
+Sage leaves
+Elder tree
+Elder root
+Elder bark
+Root of wild sambuca
+White sandal wood
+White sandlewood flowers
+White sandlewood
+Red sandlewood flowers
+Sandarach tree, juniper-gum tree
+Blood
+Dragon's blood
+Dragon's blood tree
+Human blood
+Menstrual blood
+Leeches
+Wood march, common sanicle
+Wine boiled to a syrup
+Soap
+Dry  soap
+White soap
+Silk soap
+Damask-scented soap
+Hard soap
+Soft soap
+Black soap
+Powdered soap
+Purged soap
+Soft soap
+Venetian soap
+Wild rose
+A natural hard stone
+Saxifrage, rock sage
+Lizard orchis
+Savin
+Green savin
+Dragon's blood tree
+Devil's bit
+Water of Devil's bit scabious
+Scammony
+Black beetles
+Batavian endive/lettuce
+Batavian endive seed
+Old shoes
+Jalap plant
+Resin of the jalap plant
+Winter hyacinth
+Monkey's heart
+Heart's tongue fern
+Horse tongue
+Lees/Dregs of oil
+Scordion or water germander
+Leaves of Scordion or water germander
+Scorpions
+Scorpion bile
+Black bark
+Pine kernals
+Snake Venom
+Figwort
+Great pilewort
+Assyrian plum
+Berries/seeds of Assyrian plum
+Mucillage of assyrian plum
+Celery, marsh parsley, Smallage
+Rye, winter corn flour
+Celery, marsh parsley
+Holy seeds
+Seeds
+Sunflower Seeds
+Seeds
+Bran
+Wheat bran
+Bran
+Leaves of Common houseleek
+Cassia, Senna
+Commercial cassia
+Cassia leaves
+Mustard
+Black mustard
+Cuttle fish bone
+Burnt cuttle-fish bone
+Cuttle-fish ink
+Gum or resin from a fennel plant
+Gum or resin from a fennel plant
+Whey
+A snake
+The tongue of a dead Snake? Or a plant?
+Snake's skin
+Common dragon or snake plant or tarragon
+Common dragon or snake plant or tarragon roots
+Wild Thyme, mother of thyme
+Wild Thyme seeds
+Raw silk
+Rectified spirit of silk
+Onion roots
+Vegetable tallow
+Fat or grease
+Fat from a billy-goat
+Fat of a young goat
+Laserpitium siler
+Syrup
+Perhaps a vinegar syrup?
+Byzantine syrup
+Citron-juice syrup
+Myrtle syrup
+Rose syrup
+Violet syrup
+Sesame seed
+could this be sesame too? 1161
+Emeralds
+Soda
+Hog's Lard
+Deadly nightshade
+Woody nightshade or black nightshade
+Antimony sulphide without arsenic
+Zinc sulphate
+Sulpher
+Sulpher (Also known as brimstone)
+Spirit of sulpher
+A kind of sulpher
+Quick silver
+Sumach, Tanner's sumach
+Burned sumach
+Rat droppings
+Whale sperm
+Derived from the Sperm Whale
+Spices
+Spices
+Spike: Lavendula, French Lavender
+Water of spike
+Celtic spikenard or valerian
+Spike flowers
+Spikenard
+Spikenard flowers
+Buckthorn
+Buckthorn berries
+Sponge
+Red Sponge
+Wax/dirt from the ears
+Spit/saliva
+Flakes (Drosse) of red brasse
+Sea Onion, Squill
+Camel's hay, Scenanth, Geranium grass
+Camel's hay, Geranium grass
+Tin
+Delphinium
+Excrement
+Human excrement
+Asses dung
+Dung (Black or white donkey)
+Cattle dung
+Faeces, (Dog)
+Goat dung
+Horse excrement
+Dove excrement
+Chicken dung
+Cat excrement
+Hare dung
+Sparrow droppings
+Sheep dung
+Pigeon excrement
+Pig dung
+Mouse/Rat faeces
+Veal excrement
+Sticadove/sticadoor
+Straw
+Resin or gum or balsam from the Storax
+The best storax
+A form of storax
+A kind of Storax
+Powdered storax
+Delphinium staphisagria
+Lard
+Pork lard
+Ostrich egg
+Mantis
+Corrosive sublimate
+Wake robin juice
+Damson or plum tree seeds
+Tobacco
+Tobacco water
+Balsam or Balm of Gilead
+Tapsia
+Talc
+Calcinate talc
+Green talcum
+A live mole
+Tamarind
+Tamarisk
+Tansy
+Drias plant
+Tarantulas
+Tarassico is a dandelion
+Tartar
+Tartar amoniate
+Calcinate Tartar
+Cream of tartar
+Tartar (from barrels)
+White wine tartar
+Red wine tartar
+Oil of tartar
+Tortoise
+Tortoise blood
+Cow's lungwort
+Root of cow's lungwort
+Badger grease
+A badger's left foot
+Canvas
+Spider's web
+Small cockles, much used in Rome
+Tench
+Turpentine from the terebinto/terebinth tree
+Alexandrian turpentine
+White turpentine
+Venetian turpentine
+Oil of turpentine
+Resin from the terebinth tree
+Earth
+Earth from Malta
+Earth from Lemnos
+Black earth
+Red earth
+Clay
+Glazed earth
+Animal testicles
+Horse Testicles
+Water of turtle/tortoise
+Tortoise/turtle  shell
+A shrub which bears peppers
+A Mixture of aromatic substances
+Thyme
+A kind of dye
+Theriac
+Rat ear
+Blood-root
+Septfoil, Tormentil
+Blood-root roots
+Bull gall
+Clover/trefoil
+Clover seeds
+Arar tree
+Gall of a bird of prey
+A green branch
+A kind of baked earth?
+A mule's left hoof
+Wax from your own ears
+A medicinal ointment
+Agrippa's ointment
+The Apostles' unguent
+Aragonese ointment
+Golden ointment
+Aloe ointment
+Galen's ointment
+Oak ointment
+Ointment made of Tutia
+Ointment of dialtea
+Ointment made of enule
+Ointment made with colofonia
+Ointment of Martiatum
+Ointment of roses
+Ointment of Sandali
+Human hair
+Ants eggs
+Partridge eggs
+Egg whites
+A whole egg
+Egg yolk
+Egg shell
+a Plover
+Plover feathers
+Juice of sour grapes
+Grapes
+Raisins
+Flower of a wild vine
+Grape pips
+Veal bone marrow
+Valerian
+Valerian root
+Vanilla
+Common vetch
+Hellebore
+Verbena
+Verbena seeds
+Verbena juice
+Worms
+Silk worms
+Earthworms, (Red)
+Gum of juniper trees
+White varnish
+Liquid varnish
+Water speedwell
+Heliotrope,
+Cabbage
+Cabbage seeds
+Brazel or fernanbuck
+Brazel wood
+Wasp's nest
+Glass shavings
+Sulphuric acid
+Blue vitriol
+copper sulphate
+green vitriol
+ferrous sulphate
+Burnt vitriol
+White vitriol. Sulphate of Zinc
+Lime
+Crystallized ferrous sulphate
+Red vitriol
+Spirit of vitriol
+Green Vitriol
+Glass
+Clear glass
+Pomegranate wine
+Sweet wine
+Sour wine
+Sweet wine
+Wine
+Aromatic wine
+Dry wine
+White wine
+Dry /sharp white wine
+Cooked wine
+Wine from  A decotion of mortella flowers
+Spanish wine
+Sweet wine
+Lees of wine
+Lees of wine
+Excellent wine
+Malvasy wine
+Muscat wine
+Black wine (Dark, red, strong??)
+Wine (Red)
+Wine spirit
+Old wine
+Spirit of wine
+Violets
+Violet flowers
+Violet leaves
+Violets (purple)
+Seeds fo purple violets
+Syrup of violets
+Snakes (Vipers)
+Solidago
+Wild teasel, Shepherd's rod
+Root of Wild teasel, Shepherd's rod
+Bird-lime
+Mistletoe
+Mistle toe bark
+Vine water
+Vine buds
+Vine Ash
+Vine flowers
+Vine leaves
+Vine sap
+Vine wood
+Vine root
+Vine sprigs
+Veal
+Veal flesh
+Sea cow
+Veal  bone marrow
+Veal hoof/foot
+Veal's blood
+Veal grease/breast
+Vine tendrils
+Vine seeds
+A fox
+Fox grease
+Fox lungs
+Fox's blood
+Zilo: A tree which yields balsam
+Sapphires
+Saffron, Autumn Crocus
+Oriental crocus
+Civet
+Zinc Sulphate
+Marrow water
+Marrow leaves
+Wild marrow/gourd
+Marrow or gourd seeds
+Candied marrow
+Long marrow
+Marrow
+Leaves of marrow or melon or gourd
+Sugar
+White sugar
+Sugar flavoured with borage, or rose-campion
+Candied white sugar -in form of loaves
+Clarified sugar
+Sugar loaf
+Barley sugar
+Fine sugar
+Julep Sugar
+Granulated sugar
+Oil of sugar
+Sugar flavoured with roses
+Red drinking sugar 
+Sugar flavoured with violets
+#Wiley's magic items
+Inchworm in amber
+Child's hair
+A note containing lies
+Black pearl
+Spider's silk
+A page torn from a holy codex
+A list of forgotten names
+An arowana scale
+A serpent scale
+A lodestone
+An exhumed piece of clothing
+The tooth of a hanged man
+A wizard's stocking
+A scrap of death-shroud
+powder from a dried birth-caul
+Fossilized wood
+Tiger's eye stone
+Blood moss
