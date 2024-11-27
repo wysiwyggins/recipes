@@ -5,7 +5,6 @@ import string
 import tracery
 from tracery.modifiers import base_english
 
-# Function to escape LaTeX special characters
 def latex_escape(text):
     special_chars = {
         '&':  r'\&',
@@ -23,7 +22,6 @@ def latex_escape(text):
         text = text.replace(char, escaped_char)
     return text
 
-# Load SpaCy model (ensure 'en_core_web_sm' is installed)
 try:
     nlp = spacy.load('en_core_web_sm')
 except OSError:
@@ -32,7 +30,6 @@ except OSError:
     download('en_core_web_sm')
     nlp = spacy.load('en_core_web_sm')
 
-# Define POSifiedText class for Markovify
 class POSifiedText(markovify.Text):
     def word_split(self, sentence):
         return ["{}::{}".format(word.text, word.pos_) for word in nlp(sentence)]
@@ -76,7 +73,7 @@ def generate_measurement():
     if measurement_choice == 'special':
         special = random.choice(special_measurements)
         if special == 'half a':
-            unit = random.choice(['cup', 'tablespoon', 'teaspoon', 'slice', 'piece'])
+            unit = random.choice(['cup', 'tablespoon', 'teaspoon', 'portion', 'piece'])
             return f"Half a {unit}"
         else:
             return special
@@ -118,15 +115,15 @@ def generate_measurement():
 
         return f"{quantity_str} {unit_str}"
 
-# Read data from files
 with open('ingredients/colors.txt', 'r') as f:
     colors = [line.strip() for line in f if line.strip()]
 
 with open('ingredients/reagents.txt', 'r') as f:
-    raw_reagents = [line.strip() for line in f if line.strip()]
+#    raw_reagents = [line.strip() for line in f if line.strip()]
+    reagents = [line.strip() for line in f if line.strip()]
 
-# Process reagents to normalize capitalization
-def process_reagents(reagents_list):
+# Process reagents to normalize capitalization, NOT WORKING!
+""" def process_reagents(reagents_list):
     processed_reagents = []
     for reagent in reagents_list:
         # Create a context sentence
@@ -150,7 +147,7 @@ def process_reagents(reagents_list):
         processed_reagents.append(processed_reagent)
     return processed_reagents
 
-reagents = process_reagents(raw_reagents)
+reagents = process_reagents(raw_reagents) """
 
 with open('ingredients/effects.txt', 'r') as f:
     effects_text = f.read()
@@ -170,14 +167,10 @@ with open('ingredients/color_potion_origins.txt', 'r') as f:
 with open('ingredients/skill_potion_origins.txt', 'r') as f:
     skill_potion_origins = [line.strip() for line in f if line.strip()]
 
-# Build Markov model using Markovify and SpaCy
 text_model = POSifiedText(effects_text, state_size=2)
 
-# Set the number of pages to generate enough content for NaNoGenMo (approximate 50,000 words)
-# Estimate words per recipe: Let's assume 500 words per recipe
-num_pages = 100  # Adjust as needed to reach 50,000 words
+num_pages = 100 
 
-# Create Tracery grammar that will be reused
 base_grammar_rules = {
     'adjective': adjectives,
     'time_phrase': [
@@ -227,7 +220,6 @@ with open('recipe_book.tex', 'w') as f:
     recipe_names = []
 
     for page_num in range(1, num_pages+1):
-        # Decide whether to use a color or a skill for the recipe name
         name_choice = random.choice(['color'] * 7 + ['skill'] * 3)  # 70% color, 30% skill
         if name_choice == 'color':
             recipe_word = random.choice(colors)
@@ -239,12 +231,10 @@ with open('recipe_book.tex', 'w') as f:
             word_type = 'skill'
         recipe_name = latex_escape(recipe_name)
 
-        # Avoid duplicate recipe names
         if recipe_name in recipe_names:
-            continue  # Skip and try again
+            continue
         recipe_names.append(recipe_name)
 
-        # Generate ingredients list
         num_ingredients = random.randint(3, 8)
         ingredients_list = []
         ingredient_details = []
@@ -254,11 +244,9 @@ with open('recipe_book.tex', 'w') as f:
             ingredients_list.append(latex_escape(f"{measurement} {ingredient}"))
             ingredient_details.append({'measurement': measurement, 'ingredient': ingredient})
 
-        # Generate effects paragraph
         num_sentences = random.randint(2, 3)
         sentences = []
 
-        # Define Tracery grammar using the recipe word and adjectives
         grammar_rules = base_grammar_rules.copy()
         grammar_rules.update({
             'origin': color_potion_origins if word_type == 'color' else skill_potion_origins,
@@ -308,8 +296,6 @@ with open('recipe_book.tex', 'w') as f:
             step = step_grammar.flatten('#origin#')
             steps.append(step)
 
-        # **Add the write statements to output the potion details to the LaTeX file**
-        # Write to LaTeX file
         f.write('\\newpage\n')
         f.write(f'\\section*{{{recipe_name}}}\n\n')
         f.write('\\addcontentsline{toc}{section}{' + recipe_name + '}\n')
