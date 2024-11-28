@@ -22,7 +22,6 @@ def latex_escape(text):
         text = text.replace(char, escaped_char)
     return text
 
-# Load SpaCy model (ensure 'en_core_web_sm' is installed)
 try:
     nlp = spacy.load('en_core_web_sm')
 except OSError:
@@ -116,7 +115,6 @@ def generate_measurement():
 
         return f"{quantity_str} {unit_str}"
 
-# Read data from files
 with open('ingredients/colors.txt', 'r') as f:
     colors = [line.strip() for line in f if line.strip()]
 
